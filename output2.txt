@@ -1,0 +1,616 @@
+N Y I L V Á N O S A J Á N L A T T É T EL 
+Euró Magyar Állampapírok forgalomba hozataláról
+Általános információk és kibocsátói felhatalmazás
+Az Euró Magyar Állampapír elnevezésű államkötvény (Euró Magyar Állampapír) forgalomba hozatalára a vonatkozó jogszabályi felhatalmazás alapján és a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény szerint az államháztartásért felelős miniszter által elfogadott éves finanszírozási terv – a jelen sorozat indulásakor a 2023. évi Finanszírozási Terv – keretében és abban kapott felhatalmazás szerint az ÁKK Zrt. Finanszírozási Bizottsága által meghozott határozat alapján kerül sor.
+A Magyar Állam („Kibocsátó”) a kötvényről szóló 285/2001 (XII. 26.) Korm. rendelet alapján és az éves központi költségvetési törvény szerint, Euró Magyar Állampapír elnevezéssel, 3 hónapos EURIBOR-hoz kötött, változó kamatozású államkötvényt hoz forgalomba.
+Az Euró Magyar Állampapírban a Kibocsátó arra vállal kötelezettséget, hogy az abban megjelölt névértéket és annak a vásárlás időpontjában érvényes kamatfeltételek szerint járó kamatát, az értékpapír mindenkori tulajdonosának, illetve birtokosának megfizeti.
+Az Euró Magyar Állampapír névértékére és kamatára vonatkozó igény a Kibocsátóval szemben nem évül el.
+Az Euró Magyar Állampapír kibocsátásából befolyó összeg a központi költségvetés hiányának részbeni finanszírozására, valamint az államháztartás központi alrendszere adósságának megújítására szolgál. Az Euró Magyar Állampapír által megtestesített adósság az államadósság részét képezi.
+1.	A forgalomba hozatalra kerülő értékpapírok adatai
+
+Elnevezés:	Euró Magyar Állampapír
+Sorozatszám:	2026/U
+ISIN-kód:	HU0000406301
+A sorozat kibocsátásának kezdő időpontja:
+
+Kamatozás kezdőnapja:	2023. március 20.
+
+2023. március 20.
+Lejárat napja:	2026. szeptember 23.
+Névérték:	1 EUR, azaz Egy euró
+Értékpapír-típus:	névre szóló értékpapír
+Az előállítás módja:	dematerializált értékpapír
+2.	A forgalomba hozatal feltételei
+Az Euró Magyar Állampapírok forgalomba hozatala adagolt kibocsátás útján történik.
+
+A Forgalomba hozatal jellege:	Nyilvános
+Az értékesítés kezdő és várható záró időpontja:	2023. március 17. – 2024. március 17.
+Forgalomba hozatalra meghirdetett mennyiség:	250.000.000,- EUR, azaz Kettőszázötvenmillió euró
+Forgalomba hozatali ár:	A kibocsátás napján a névérték, ezt követően a névérték és a felhalmozott kamat összege.
+ 
+A fizetés módja:	A forgalomba hozatal során az értékesítés előfeltétele, hogy az érintett befektető részére értékesítésre kerülő Euró Magyar Állampapírok ellenértéke hiánytalanul euróban a befektető ügyfélszámláján rendelkezésre álljon. Ennek hiányában az ellenérték megfizetése készpénzzel, bankkártyás fizetéssel vagy banki átutalással teljesíthető. Az Euró Magyar Állampapírt megvásárolni csak a Magyar Államkincstár számára benyújtott, írásban vagy más – a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény szerinti – tartós adathordozón rögzített vételi
+nyilatkozat megtételével lehet.
+
+3.	Kamatozás, kamatfizetés és törlesztés
+Kamatozás jellege:	Az Euró Magyar Állampapír a 3 hónapos EURIBOR-hoz kötött,
+változó kamatozású állampapír.
+
+A kamat mértéke és meghatározásának módja:	A kamat – az első kamatperiódus kivételével – a kamatperiódus fordulónapját megelőző 5. (ötödik) munkanapra vonatkozóan, a kamatperiódus fordulónapját megelőző 3. (harmadik) munkanapon
+12.00 órakor (közép-európai idő szerint), a European Money Market Institute (EMMI) által (jelenleg a https://www.emmi- benchmarks.eu/benchmarks/euribor/rate/ honlapon1) közzétett 3 (három) havi EURIBOR százalékos mértékével egyenlő. Amennyiben a 3 (három) havi EURIBOR értéke nulla vagy negatív, úgy a 2013. évi CLXXVII. törvény 52/A. §-ának rendelkezése alapján a kamatláb értéke 0,001%-kal, azaz nulla egész egy ezred százalékkal egyenlő.
+
+Az első kamatperiódus esetében – értve ez alatt a 2023. március
+20. napjától (ezt a napot is beleértve) 2023. június 23. napjáig (ezt a napot nem beleértve) terjedő időszakot – a kamatláb mértéke megegyezik 2023. március 8. napjára vonatkozóan, 2023. március 9-én 11.00-kor, vagy akörüli időpontban (közép-európai idő szerint) a European Money Market Institute által közzétett 3 havi EURIBOR százalékos mértékével, melynek mértéke 2,944% p.a., azaz évi kettő egész kilencszáznegyvennégy ezred százalék.
+EURIBOR jelenti az European Money Market Institute (EMMI) által az euró betétekre az irányadó periódusra százalékban meghatározott éves kamatlábat, amely a https://www.emmi- benchmarks.eu/benchmarks/euribor/rate/ oldalán minden munkanapon 12.00 órakor (közép-európai idő szerint), vagy akörüli időpontban kerül feltüntetésre az előző munkanapra vonatkozóan. Amennyiben a fent nevezett oldal nem áll rendelkezésre, lecserélésre kerül vagy megszűnik, a Kibocsátó jogosult az alkalmazandó a 3 (három) havi EURIBOR kamatlábat megjelenítő más, egyenértékű honlapot vagy szolgáltatást megjelölni, amely a 3 havi EURIBOR kamatláb megjelenítése céljából felváltja a korábbi honlapot.
+Amennyiben a fentiek szerinti munkanapon az erre szolgáló honlapon a figyelembe veendő érték időlegesen nem kerül megjelenítésre, akkor a kamatperiódus fordulónapját megelőző 5. (ötödik) munkanaphoz időben legközelebb eső megelőző munkanapra vonatkozóan közzétett érték kerül figyelembe vételre.
+1 Az EURIBOR késleltetett értékei, amely előzetes regisztrációhoz kötötten tekinthetők meg.
+ 
+
+	A kifizetendő kamat mértéke az adott kamatperiódusra megállapított éves névleges kamat időarányos része (a kerekítés szabályai szerint 0,001%-ra kerekítetten), amely a két kamatfizetés időpontja között ténylegesen eltelt naptári napok, és a 360 napos év alapján kerül meghatározásra.
+A kamat meghatározásának időpontja:	A kamat megállapítására a kamatperiódus fordulónapját megelőző
+3. (harmadik) munkanapon kerül sor a következő kamatperiódusra vonatkozóan, és az így megállapított kamatmértéket az ÁKK Zrt. a honlapjain (www.akk.hu és www.allampapir.hu) teszi közzé, legkésőbb a kamatmeghatározás napján.
+
+A kamatperiódus fordulónapja a futamidő alatt március 23., június 23., szeptember 23. és december 23. napok.
+Kamatfizetési napok és az első kamatperiódusra vonatkozóan a
+kifizetésre kerülő kamat mértéke:	A kamat fizetése az alábbi napokon történik:
+2023. június 23.: 2,944% p.a., azaz évi kettő egész kilencszáznegyvennégy ezred időarányos része, azaz 0,777%, azaz nulla egész hétszázhetvenhét ezred százalék.
+
+2023. szeptember 23.
+2023. december 23.
+2024. március 23.
+2024. június 23.
+2024. szeptember 23.
+2024. december 23.
+2025. március 23.
+2025. június 23.
+2025. szeptember 23.
+2025. december 23.
+2026. március 23.
+2026. június 23.
+2026. szeptember 23.
+Kamatszámítás algoritmusa:	Tényleges/360
+
+Törlesztés:	A névérték visszafizetése a lejáratkor egy összegben esedékes.
+
+Hirdetmények:	Az Euró Magyar Állampapírral kapcsolatos közleményeket a Kibocsátó az ÁKK Zrt. www.akk.hu, www.allampapir.hu honlapjain és az MNB által hivatalosan kijelölt információtárolási rendszerként működtetett kozzetetelek.mnb.hu oldalon teszi közzé.
+
+4.	Az Euró Magyar Állampapírok vásárlóinak köre
+Az Euró Magyar Állampapírokat a forgalomba hozatal során (elsődleges piacon) devizabelföldinek és devizakülföldinek minősülő természetes személyek szerezhetik meg. Az Euró Magyar Állampapírokat a forgalomba hozatalt követően (másodlagos piacon) megvásárolhatják és egymás között átruházhatják az elsődleges piacon szerzésre jogosult személyek.
+
+A Kibocsátó az Euró Magyar Állampapír biztosítéki célú átruházását, biztosítéki ügylet alapján valamint biztosíték érvényesítése címén történő átruházását kizárja (mind a tulajdonjog, mind a birtok átruházása tekintetében). Az Euró Magyar Állampapír ezen korlátozásba ütköző átruházása semmis.
+
+
+Befektetői célpiac
+A Kibocsátó a jogszabályok által előírt befektetői célpiac és azon belül a befektetői célcsoport meghatározásnak az Euró Magyar Állampapírok vásárlására jogosultak körének fenti meghatározásával kíván megfelelni, összhangban azzal, hogy az Euró Magyar Állampapírok kondícióinak kidolgozása során a Bszt. szerinti lakossági
+ 
+ügyfelek, ezen belül is az alacsony kibocsátói kockázatot hordozó, középtávú megtakarítás iránt érdeklődő, tényleges eurómegtakarítással rendelkező befektetők elérését célozta meg, és kifejezetten nem tekinti az Euró Magyar Állampapír jellemzőivel és kibocsátói céljával összeegyeztethetőnek a vásárlói körből kizárt személyeket.
+
+5.	A Magyar Államkincstárra, mint Forgalmazóra vonatkozó Értékesítési Korlát
+Az Euró Magyar Állampapír ezen sorozatából a Magyar Államkincstár egy befektető részére a forgalomba hozatali időszak alatt, a forgalomba hozatal során (elsődleges piacon) összesen legfeljebb 500.000 darab, azaz Ötszázezer darab (egyben 500.000,- EUR, azaz Ötszázezer euró együttes névértékű) mennyiséget értékesíthet (továbbiakban: Értékesítési Korlát). A félreértések elkerülése végett a Kibocsátó, illetőleg az ÁKK Zrt. rögzíti, hogy az adott befektető részére értékesített mennyiségből a forgalomba hozatali időszak alatt bármilyen jogcímen átruházásra, eltranszferálásra, stb. kerülő mennyiség(ek) az Értékesítési Korlát szerinti mennyiséget nem csökkenti(k).
+Egyéb tájékoztatás
+A forgalomba hozatal és forgalmazás általános feltételeit az „ISMERTETŐ EURÓ MAGYAR ÁLLAMPAPÍR ELNEVEZÉSŰ, 2026/U SOROZATSZÁMÚ ÁLLAMKÖTVÉNYEK NYILVÁNOS FORGALOMBA HOZATALÁHOZ.” című
+2023. március 17. napjától hatályos dokumentum tartalmazza, mely 2023. március 9. napjától (kiadás időpontja) megtekinthető a Magyar Államkincstár fiókhálózatában, az ÁKK Zrt. honlapjain (www.akk.hu és www.allampapir.hu), valamint az MNB által üzemeltetett honlapon (kozzetetelek.mnb.hu).Budapest, 2023. március 9.
+
+Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság
+
+
+
+
+
+
+
+
+ISMERTETŐ
+
+
+EURÓ MAGYAR ÁLLAMPAPÍR ELNEVEZÉSŰ, 2026/U SOROZATSZÁMÚ ÁLLAMKÖTVÉNYEK NYILVÁNOS FORGALOMBA HOZATALÁHOZ
+
+
+
+
+
+
+
+
+
+AZ ALÁBBI ISMERTETŐ A KIBOCSÁTÓ MEGBÍZÁSÁBÓL KÉSZÜLT, ABBÓL A CÉLBÓL, HOGY A BEFEKTETŐKET TÁJÉKOZTASSA A FORGALOMBA HOZATAL ÉS A FORGALMAZÁS FELTÉTELEIRŐL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hatályos: 2023. március 17. napjától
+Kiadva: 2023. március 9. napján
+
+ÁLTALÁNOS TUDNIVALÓK ÉS KIBOCSÁTÁSI FELHATALMAZÁS
+
+A Magyar Állam (a továbbiakban: Kibocsátó) nevében a pénzügyminiszter, mint államháztartásért felelős miniszter a Magyarország éves központi költségvetéséről szóló törvény szerinti felhatalmazása és az államháztartásról szóló 2011. évi CXCV. törvény szerinti felhatalmazása alapján a központi költségvetés költségvetési hiányának és az államháztartás központi alrendszere adóssága megújítása finanszírozására államkötvényeket (a továbbiakban Euró Magyar Állampapír) bocsát ki. A pénzügyminiszter ezt a feladatot Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvényben foglaltak értelmében az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (továbbiakban: ÁKK Zrt.) útján látja el.
+Az Euró Magyar Állampapír forgalomba hozatalára a fentiek szerinti jogszabályi felhatalmazás alapján és a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény szerint az államháztartásért felelős miniszter által elfogadott éves finanszírozási terv – a jelen Ismertető hatálybalépésekor a 2023. évi Finanszírozási Terv – keretében és abban kapott felhatalmazás szerint az ÁKK Zrt. Finanszírozási Bizottsága által meghozott vonatkozó határozat alapján kerül sor.
+
+A jelen ismertető (a továbbiakban: Ismertető) a tőkepiacról szóló 2001. évi CXX. törvény (továbbiakban: Tpt.) vonatkozó rendelkezései szerint a Kibocsátó által belföldön euróban Euró Magyar Állampapír elnevezéssel nyilvánosan forgalomba hozandó, 2026/U sorozatszámú, változó kamatozású, euróban denominált államkötvények (a továbbiakban: Euró Magyar Állampapír) forgalomba hozatalának és forgalmazásának általános feltételeit tartalmazza.
+
+Jelen Ismertető az Európai Parlament és a Tanács 2017. június 14-i, az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló (EU) 2017/1129 RENDELETE (a továbbiakban: Tájékoztatóról Szóló Rendelet) 1. cikke (2) bekezdésének b) alpontja alapján nem minősül tájékoztatónak, illetve alaptájékoztatónak és a jelen Ismertető nem tartozik a Tájékoztatóról Szóló Rendelet hatálya alá.
+
+Jelen Ismertető a magyar értékpapír felügyeleten (Magyar Nemzeti Bank, a továbbiakban: MNB) kívül más értékpapír felügyeletnek nem került bemutatásra.
+
+Bizonyos országok jogszabályai korlátozhatják a jelen Ismertető terjesztését, illetve az Euró Magyar Állampapír megvételre való felajánlását, értékesítését, reklámozását.
+
+A Kibocsátó, illetve az ÁKK Zrt. nem kezdeményezett és nem fog kezdeményezni olyan, az Euró Magyar Állampapírok nyilvános forgalomba hozatalának engedélyeztetésére, illetve a jelen Ismertető közzétételére irányuló eljárást Magyarországon kívüli olyan államban, amely ilyen célból engedélyeztetési kötelezettséget vagy egyéb, hasonló jellegű korlátozást ír elő.
+
+A Kibocsátó, illetve az ÁKK Zrt. nem vállal felelősséget azért, hogy a jelen Ismertető Magyarországon kívül jogszerűen terjeszthető vagy közzétehető, továbbá azért, hogy az Euró Magyar Állampapír(ok) jogszerűen reklámozható(ak), – akár közvetlenül, akár közvetetten – felajánlható(ak) megszerzésre vagy eladásra/vételre bármely más állam jogszabályai szerint, vagy az ilyen jogszabályok által megfogalmazott kivételekkel összhangban.
+
+Így az Euró Magyar Állampapírokat az Amerikai Egyesült Államok 1933. évi értékpapír törvénye (a továbbiakban: Amerikai Értékpapír Törvény) szerint és adózási jogszabályainak megfelelően nem jegyezték be és nem fogják bejegyezni. Az Euró Magyar Állampapírok az Amerikai Egyesült Államok területén kívül - az Amerikai Értékpapír Törvény ún. Regulation S-ével összhangban - kerülnek felajánlásra, így az Amerikai Értékpapír Törvény bejegyzési követelményei alól kivételt képező bizonyos tranzakciókat leszámítva az Euró Magyar Állampapír(oka)t az Amerikai Egyesült Államok területén és az
+
+amerikai személyek számára és/vagy javára nem lehet felajánlani, értékesíteni, illetőleg továbbítani. A Forgalmazónak vállalnia kell, hogy az Amerikai Értékpapír Törvény vonatkozó rendelkezéseivel összhangban csak az Amerikai Egyesült Államok területén kívül értékesíti az Euró Magyar Állampapír(oka)t. Az ebben a bekezdésben használt meghatározások az Amerikai Értékpapír Törvény vonatkozó rendelkezéseiben használt meghatározásoknak felelnek meg.
+
+Az Euró Magyar Állampapírok felajánlásával és értékesítésével kapcsolatban az Egyesült Királyságban is vannak korlátozások. Ezt a dokumentumot az Egyesült Királyság pénzügyi szolgáltatásokról és piacokról szóló 2000. évi törvénye (a továbbiakban: Pénzügyi Szolgáltatásokról és Piacokról Szóló Törvény) szerint, továbbá az ezen törvényben meghatározott hatóság nem hagyta jóvá, így az Euró Magyar Állampapírokat az Egyesült Királyságban a Pénzügyi Szolgáltatásokról és Piacokról szóló Törvény vonatkozó rendelkezései szerint lehet felajánlani, illetve a jelen Ismertető is az előbb hivatkozott törvénnyel összhangban terjeszthető.
+
+A Kibocsátó felszólítja jelen Ismertető olvasóit, hogy tájékozódjanak ezekről a korlátozásokról, illetve tartsák be azokat. Ha bármely országban az Euró Magyar Állampapír értékesítésére való felajánlása jogszabályellenes, vagy bármely személy számára az Euró Magyar Állampapír megvásárlása jogszabályba ütközik, jelen Ismertető nem fogadható el ajánlatként és nem használható fel az Euró Magyar Állampapír értékesítésével kapcsolatos ajánlat céljából.
+
+A Kibocsátó, illetőleg az ÁKK Zrt. senkit sem hatalmazott fel arra, hogy jelen Ismertetőben leírtakon, illetőleg az ilyen célra a Kibocsátó vagy az ÁKK Zrt. által jóváhagyottakon túlmenően bármilyen információt szolgáltasson, vagy állást foglaljon. Ha ennek ellenére ez bekövetkezne, abból kell kiindulni, hogy a Kibocsátó, illetőleg az ÁKK Zrt. az információt vagy állásfoglalást nem hagyta jóvá.
+A jelen Ismertetőben szereplő, minden euróra történő utalás az Európai Unió Résztvevő Tagállamai közös hivatalos fizetőeszközére vonatkozik, ahol Résztvevő Tagállamnak az Európai Unió azon tagállamai minősülnek, amelyek elfogadják, vagy elfogadták az eurót törvényes fizetőeszközeként az Európai Unió Gazdasági és Monetáris Unióra vonatkozó kötelező előírásaival összhangban.
+
+
+A FORGALOMBA HOZATAL CÉLJA
+
+A forgalomba hozatalból a Kibocsátó megfelelő számlájára befolyó összeg a központi költségvetés költségvetési hiányának részbeni finanszírozását és a lejáró államadósság megújítását szolgálja. A Kibocsátó a forgalomba hozatalban való részvétellel a lakossági megtakarítások államadósság finanszírozásba való becsatornázását kívánja elérni.
+
+
+A FORGALOMBA HOZATAL ÁLTALÁNOS FELTÉTELEI
+Az Euró Magyar Állampapírok jellemzői
+Az Euró Magyar Állampapír a Tpt. és a kötvényről szóló 285/2001. (XII.26.) Korm. rendelet szerint kibocsátott, névre szóló értékpapír.
+Az Euró Magyar Állampapír a Magyar Állam közvetlen, általános és feltétel nélküli kötelezettségvállalása arra, hogy a forgalomba hozatali ár megfizetése ellenében az államkötvény névértékét és előre meghatározott kamatát a megjelölt időben és módon megfizeti.
+Az Euró Magyar Állampapírban megtestesített adósság az államadósság része. Az Euró Magyar Állampapír kamatának és névértékének megfizetése a központi költségvetés, illetve a központi költségvetés adósságszolgálati kiadásainak terhére történik. Az Euró Magyar Állampapíron alapuló követelés a Kibocsátóval szemben nem évül el.
+
+Az Euró Magyar Állampapírok vásárlói és átruházása
+Az Euró Magyar Állampapírokat a forgalomba hozatal során (elsődleges piacon) devizabelföldinek és devizakülföldinek minősülő természetes személyek szerezhetik meg. Az Euró Magyar Állampapírokat a forgalomba hozatalt követően (másodlagos piacon) megvásárolhatják és egymás között átruházhatják az elsődleges piacon szerzésre jogosult személyek.
+A Kibocsátó az Euró Magyar Állampapír biztosítéki célú átruházását, biztosítéki ügylet alapján valamint biztosíték érvényesítése címén történő átruházását kizárja (mind a tulajdonjog, mind a birtok átruházása tekintetében). Az Euró Magyar Állampapír ezen korlátozásba ütköző átruházása semmis.
+
+Devizakülföldi természetes személyek az Euró Magyar Állampapírt a hatályos devizajogszabályok figyelembe vételével vásárolhatják meg és ruházhatják át.
+
+Az Euró Magyar Állampapírral kapcsolatos, devizakülföldi által, vagy javára történő kifizetésekre a hatályos devizajogszabályok rendelkezései irányadóak. Ebben a vonatkozásban más országok jogszabályai is tartalmazhatnak korlátozásokat, amelyre tekintettel a Kibocsátó felszólítja jelen Ismertető olvasóit, hogy tájékozódjanak ezekről a korlátozásokról, illetve tartsák be azokat.
+A Magyar Államkincstárra, mint Forgalmazóra vonatkozó értékesítési korlát
+Az Euró Magyar Állampapír ezen sorozatából a Magyar Államkincstár egy befektető részére a forgalomba hozatali időszak alatt, a forgalomba hozatal során (elsődleges piacon) összesen legfeljebb
+500.000 darab, azaz Ötszázezer darab (egyben 500.000,- EUR, azaz Ötszázezer euró együttes névértékű) mennyiséget értékesíthet (továbbiakban: Értékesítési Korlát). A félreértések elkerülése végett a Kibocsátó, illetőleg az ÁKK Zrt. rögzíti, hogy az adott befektető részére értékesített mennyiségből a forgalomba hozatali időszak alatt bármilyen jogcímen átruházásra, eltranszferálásra, stb. kerülő mennyiség(ek) az Értékesítési Korlát szerinti mennyiséget nem csökkenti(k).
+Befektetői célpiac
+A Kibocsátó a jogszabályok által előírt befektetői célpiac és azon belül a befektetői célcsoport meghatározásnak az Euró Magyar Állampapírok vásárlására jogosultak körének fenti meghatározásával kíván megfelelni, összhangban azzal, hogy az Euró Magyar Állampapírok kondícióinak kidolgozása során a Bszt. szerinti lakossági ügyfelek, ezen belül is az alacsony kibocsátói kockázatot hordozó, középtávú megtakarítás iránt érdeklődő, tényleges eurómegtakarítással rendelkező befektetők elérését célozta meg, és kifejezetten nem tekinti az Euró Magyar Állampapír jellemzőivel és kibocsátói céljával összeegyeztethetőnek a vásárlói körből kizárt személyeket.
+
+Az Euró Magyar Állampapírok előállítása és névértéke
+Az Euró Magyar Állampapírok a Tpt. felhatalmazása alapján dematerializált értékpapírként kerülnek kibocsátásra.
+Az Euró Magyar Állampapírok névértéke (alapcímlete) 1,- EUR, azaz Egy euró.
+Az Euró Magyar Állampapírok forgalomba hozatali ára
+Az Euró Magyar Állampapír forgalomba hozatali ára a forgalomba hozatal első napján a névértékkel, ezt követően a névérték és az értéknapra vonatkozó felhalmozott kamat összegével egyezik meg.
+A felhalmozott kamat számítása a következők szerint történik: Az első kamatperiódus esetében:
+
+
+Felhalmozott kamat = 𝑔𝑎 x
+
+𝑑𝑡1 − 𝑑0
+360	+ 𝑔𝑎 x
+
+𝑑𝑠 − 𝑑𝑡1 360
+
+Minden más esetben (szabályos kamatperiódus):
+
+
+Felhalmozott kamat = 𝑔𝑎
+
+x 𝑑𝑠 − 𝑑𝑖−1 360
+
+
+
+ahol:
+
+
+
+ga =	az Euró Magyar Állampapír aktuálisan megállapított éves kamata
+di =	az i-edik cash-flow elem (kamatfizetés és törlesztés) kifizetésének dátuma ds =	a felhalmozott kamat számításának értéknapja
+d0 =	a kibocsátás napja
+dt1 =	technikai kamatfizetési nap, amelyet úgy lehet megkapni, hogy a következő kamatfizetés dátumából ki kell vonni egy kamatperiódust
+
+
+
+Az előbbi számítások során elsőként az Euró Magyar Állampapír 1,-EUR-s, azaz egy eurós névértékére (alapcímletére) vonatkozóan négy tizedesjegyig számítva meghatározásra kerül a felhalmozott kamat összege, majd a névértékre (alapcímletre) eső, így kiszámított kamatösszeg beszorzásra kerül az adott befektető által vásárolni szándékolt Euró Magyar Állampapírok darabszámával, végül ezen összeg egész eurócentre kerül kerekítésre a kerekítés általános szabályai szerint.
+
+A NYILVÁNOS FORGALOMBA HOZATAL MÓDJA
+
+Az Euró Magyar Állampapír sorozatainak forgalomba hozatala adagolt kibocsátás útján történik.
+A Tpt. 5. § (1) bekezdésének 1. pontja értelmében az adagolt kibocsátás a hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatalának olyan módja, amelynek keretén belül az értékesítés a kibocsátó által meghatározott időszak alatt történik úgy, hogy az értékpapírok lejárati időpontja azonos.
+A Kibocsátó az Euró Magyar Állampapír forgalomba hozatalát nyilvános ajánlattételben teszi közzé, melyet a forgalomba hozatali eljárás kezdőnapját megelőzően 3 (három) munkanappal az ÁKK Zrt. saját honlapjain (www.akk.hu és www.allampapir.hu), valamint az MNB által üzemeltett honlapon (kozzetetelek.mnb.hu) jelentet meg. A nyilvános ajánlattétel tartalmazza – többek között – a forgalomba hozatalra kerülő Euró Magyar Állampapír sorozatszámát, ISIN-kódját, a sorozat forgalomba hozatalának feltételeit, ezen belül az értékesítés kezdő és várható zárási időpontját, az értékesítésre meghirdetett mennyiséget, az első kamatperiódusra vonatkozóan a kamat mértékét, a kamatfizetés és törlesztés feltételeit, az Értékesítési Korlátot, valamint a lejárat napját.
+
+A forgalomba hozatal feltételéül legkisebb mennyiség nem kerül meghatározásra.
+
+A Kibocsátó fenntartja a jogot arra, hogy az értékesítésre meghirdetett mennyiséget, valamint a forgalomba hozatal zárási időpontját módosítsa.
+
+A befektetők vételi nyilatkozatainak felvételét és az Euró Magyar Állampapír forgalomba hozatalával kapcsolatos forgalmazói feladatok ellátását a Magyar Államkincstár végzi. A Magyar Államkincstár állampénztári irodáit és értékesítési pontjait a jelen Ismertető A jelű melléklete tartalmazza.
+Az Euró Magyar Állampapírt megvásárolni csak a Magyar Államkincstár számára benyújtott írásban vagy más - a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) szerinti - tartós adathordozón rögzített vételi nyilatkozat megtételével lehet.
+
+A vételi nyilatkozatnak legalább a következő adatokat kell tartalmaznia:
+-	befektető neve,
+-	befektető besorolása (devizabelföldinek vagy devizakülföldinek minősülő természetes személy),
+-	befektető azon nyilatkozata, miszerint vele szemben a besorolása tekintetében szerzési korlátozás nem áll fenn,
+-	a sorozat tekintetében a Kibocsátó által jelen Ismertetőben meghatározott Értékesítési Korlát,
+-	a sorozatból a befektető által forgalomba hozatal keretében az adott vásárlásig megvásárolt darabszám (együttes névérték),
+-	a befektető azon nyilatkozata, miszerint a sorozatból a Kibocsátó által jelen Ismertetőben meghatározott Értékesítési Korlátot meghaladó mennyiséggel (a jelen vásárlással megszerezni szándékozott mennyiséget is beleszámítva) nem rendelkezik,
+-	a vásárolni szándékozott Euró Magyar Állampapír sorozatszáma és darabszáma (együttes névértéke),
+-	a vásárláskori értéknapja szerinti árfolyam (névérték és a felhalmozott kamat),
+-	a vásárlás értéknapja,
+-	az Ismertető befektetői célpiacra vonatkozó rendelkezéseinek, azon belül különösen annak tudomásul vételét, hogy a Kibocsátó az Euró Magyar Állampapírok forgalomba hozatalával a tényleges eurómegtakarítással rendelkező befektetők elérését célozta meg,
+-	annak tudomásul vételét, hogy a Tpt. vonatkozó rendelkezései alapján a Kibocsátó, illetve az ÁKK Zrt. a forgalomba hozatallal kapcsolatos célból jogosult megismerni a vételi nyilatkozat tartalmát és az ügyfél adatait, és ugyanezen célból jogosult ezen adatokat felhasználni.
+
+Egyebekben a vételi nyilatkozat tartalmára és alakiságára a vonatkozó jogszabályi rendelkezések az irányadóak.
+A vételi nyilatkozat megadása az előírt tartalmú vételi nyilatkozat személyesen, vagy meghatalmazott útján történő megtételével és a Magyar Államkincstár részére történő benyújtásával, vagy a Magyar Államkincstár elektronikus rendszerén keresztül történő eljuttatásával történik.
+
+A vételi nyilatkozat benyújtásával a befektető kötelező erejű és visszavonhatatlan kötelezettséget vállal az Euró Magyar Állampapírok átvételére a feltüntetett teljes összeg erejéig.
+
+A vételi nyilatkozat meghatalmazott útján történő megtétele esetén a meghatalmazás szabályaira a Magyar Államkincstár mindenkor hatályos vonatkozó üzletszabályzata/szerződési feltételei az irányadók.
+
+A jogszabályon, illetve hatósági rendelkezésen alapuló képviselet útján történő nyilatkozattétel esetén a hatályos jogszabályokban, illetve a hatósági rendelkezésben meghatározott (törvényes) képviselő, vagy az ilyen képviselő által közokiratban vagy teljes bizonyító erejű magánokiratban meghatalmazott személy képviselheti a befektetőt a Magyar Államkincstár mindenkor hatályos vonatkozó üzletszabályzata/szerződési feltételei szerint. Törvényes képviselő (szülő, gondnok, gyám) ezen minőségét tanúsító okmány szerint járhat el a képviselt személy érdekében.
+Minden esetben a Magyar Államkincstár dönti el, hogy a hozzá beérkezett vételi nyilatkozat megfelelően került-e megtételre. A Magyar Államkincstár minden ilyen döntése végleges és kötelező erővel bír. A forgalomba hozatali időszak lezárásáig beérkező és megfelelően megtett vételi ajánlatot a Magyar Államkincstár köteles elfogadni. A hiányosan kitöltött, vagy a benyújtásra rendelkezésre álló időszakon túl beérkező, vagy egyéb ok miatt nem megfelelően megtett vételi nyilatkozatok érvénytelennek minősülnek és a forgalomba hozatalban nem vesznek részt.
+
+A megfelelően megtett vételi ajánlati nyilatkozat esetén az értékpapír a befektető értékpapírszámláján az értékesítés előfeltételeinek maradéktalan rendelkezésre állásának napján (a vételi nyilatkozat megtételének napját követő napon, vagy amennyiben a vételi nyilatkozatban a vásárlás értéknapjaként
+
+ennél későbbi nap került meghatározásra, úgy a vásárlás értéknapján) - amennyiben ez a nap munkanap - jóváírásra kerül.
+
+A pénzügyileg teljesített, de el nem fogadott vételi nyilatkozatok befektetők által befizetett ellenértékének visszafizetésére a döntés napját követő második munkanapig ad átutalási megbízást a Magyar Államkincstár. A befektetők az elutasított vételi ajánlatok kapcsán ezen az összegen felül kamatra, kártérítésre vagy egyéb összegre nem jogosultak. A vételi ajánlatok teljes vagy részbeni visszautasítása esetén a Magyar Államkincstár köteles az érintett ügyfeleket, a visszautasítás okát is megjelölve értesíteni.
+
+TOVÁBBI FORGALOMBA HOZATAL
+
+A Kibocsátó és az ÁKK Zrt. fenntartja a jogot arra, hogy időről időre további, az Euró Magyar Állampapírokkal a forgalomba hozatal napjának kivételével minden tekintetben azonos jogokat megtestesítő államkötvényeket hozzon forgalomba, amelyek az adott Euró Magyar Állampapír-sorozattal azonos sorozatot alkotnak.
+
+
+AZ EURÓ MAGYAR ÁLLAMPAPÍROK DEMATERIALIZÁLT ÉRTÉKPAPÍRKÉNT TÖRTÉNŐ FORGALOMBA HOZATALA
+
+A dematerializált Euró Magyar Állampapír a Tpt-ben és külön jogszabályban meghatározott módon, elektronikus úton rögzített és továbbított, értékpapírszámlán nyilvántartott, a tulajdonos neve és az értékpapír sorszáma kivételével az értékpapír - jogszabályban meghatározott - valamennyi tartalmi kellékét azonosítható módon tartalmazó adat. Az Euró Magyar Állampapír nyilvántartása a befektetési vállalkozások (jelen Ismertető alkalmazásában beleértve a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó Magyar Államkincstár, illetve hitelintézetet is) részére a KELER Központi Értéktár (a továbbiakban: KELER Zrt.) által vezetett, illetve az ügyfelek részére a befektetési vállalkozások által vezetett értékpapírszámlákon történik.
+
+Az Euró Magyar Állampapír átruházása értékpapírszámlán történő terhelés és jóváírás útján történik.
+
+Az Euró Magyar Állampapír a forgalomba hozatal alkalmával a befektető a Magyar Államkincstárnál vezetett értékpapírszámláján kerül jóváírásra. Egyebekben a befektetők az általuk kiválasztott, értékpapírszámla vezetésére és az ahhoz kapcsolódó szolgáltatások nyújtására jogosult befektetési vállalkozással (hitelintézettel), mint értékpapír-számlavezetővel köthetnek értékpapírszámla és ügyfélszámla (hitelintézet esetén bankszámla) szerződést. A befektetők számlavezető részére adandó megbízásai tekintetében az adott számlavezető üzletszabályzata az irányadó.
+
+
+AZ EURÓ MAGYAR ÁLLAMPAPÍROKKAL KAPCSOLATOS KIFIZETÉSEK
+Az Euró Magyar Állampapírral kapcsolatos főkifizetőhelyi feladatok ellátását az ÁKK Zrt. végzi. (Ezen feladatokba az adójogszabályok szerinti kifizetői feladatok nem tartoznak bele.)
+
+Az ÁKK Zrt. a KELER Zrt. és a befektetési vállalkozások közreműködésével fizeti ki a kamatokat és a törlesztést (a névértéket) a befektetőknek. A befektetőnek az értékpapírszámla-szerződés megkötésekor rendelkeznie kell az esedékes összegek kifizetésének módjáról.
+
+Kamatozás, kamatfizetés
+Az Euró Magyar Állampapír az egyes kamatperiódusokra utólag fizet kamatot. Az Euró Magyar Állampapír esetében a kamatperiódus – az első kamatperiódus kivételével - az a 3 (három) hónapos időszak, amely
+-	az adott év március hó 23. napja és ugyanazon év június hó 23. napja közé,
+-	az adott év június hó 23. napja és ugyanazon év szeptember hó 23. napja közé,
+-	az adott év szeptember hó 23. napja és ugyanazon év december hó 23. napja közé,
+-	az adott év december hó 23. napja és a soron következő év március hó 23. napja közé
+esik (és rendre így tovább), azzal, hogy az adott kamatperiódus annak első napjától (ezt a napot is beleértve) az adott kamatperiódus utolsó napjáig (ezt a napot nem beleértve) terjed. Az első kamatperiódus 2023. március 20. napjától (ezt a napot is beleértve) 2023. június 23. napjáig (ezt a napot nem beleértve) terjed. Ennek megfelelően a kamatfizetés az alábbi napokon történik: 2023. június 23., 2023. szeptember 23., 2023. december 23., 2024. március 23., 2024. június 23., 2024.
+szeptember 23., 2024. december 23., 2025. március 23., 2025. június 23., 2025. szeptember 23., 2025.
+december 23., 2026. március 23., 2026. június 23., 2026. szeptember 23.
+
+A KELER Zrt-nél értékpapírszámlán nyilvántartott Euró Magyar Állampapírok kamatait az ÁKK Zrt. a KELER Zrt. által közölt nyilvántartás alapján értékpapírszámla-vezetőkhöz történő átutalás útján fizeti ki. A számlavezetők esetleges szerződésszegéséből eredő következményekért a Kibocsátó és az ÁKK Zrt. nem vállal felelősséget.
+
+A kamat mértékének meghatározása
+Az adott kamatperiódusra vonatkozó kamatmérték megállapítása az első kamatperiódus esetében a nyilvános ajánlattételben történik, míg az első kamatperiódust követő kamatperiódusok esetében az adott kamatperiódus első napját megelőző 3. (harmadik) munkanapon kerül sor a következő kamatperiódusra vonatkozóan.
+Az Euró Magyar Állampapírok esetében a kifizetendő kamat mértéke (0,001%-ra kerekítetten) a kamatfizetési időpontok között ténylegesen eltelt naptári napok, és a 360 napos év alapján az alábbiak szerint kerül meghatározásra (valamennyi esetben bruttó, adólevonások nélküli kamatszázalék, illetve kamatmérték értendő):
+
+Az első kamatfizetés mértékének meghatározása:
+
+
+
+gp = ga *
+
+dt1  d0
+360
+
+d1  dt1
++  a *
+360
+
+
+
+A további kamatfizetések mértékének meghatározása:
+
+gp = ga * di  di1
+360
+
+
+ahol:
+ga =	éves kamat (kupon)
+gp =	a kamatfizetési gyakoriságnak megfelelő időarányos kamat d0 =	a kibocsátás napja
+
+d1 =	az első kamatfizetés napja
+dt1 =	technikai kamatfizetési nap, amelyet úgy lehet megkapni, hogy a következő kamatfizetés dátumából ki kell vonni egy kamatperiódust
+di =	az i-edik cash-flow elem (kamatfizetés és törlesztés) kifizetésének dátuma
+
+
+Éves kamat meghatározása (ga):
+Az éves kamat a kamatperiódus fordulónapját megelőző 5. (ötödik) munkanapra vonatkozóan, a kamatperiódus fordulónapját megelőző 3. (harmadik) munkanapon 12.00 órakor (közép-európai idő szerint), a European Money Market Institute (EMMI) által (jelenleg a https://www.emmi- benchmarks.eu/benchmarks/euribor/rate/ honlapon1) közzétett 3 (három) havi EURIBOR százalékos mértékével egyenlő. Amennyiben a 3 (három) havi EURIBOR értéke nulla vagy negatív, úgy a 2013. évi CLXXVII. törvény 52/A. §-ának rendelkezése alapján a kamatláb értéke 0,001%-kal, azaz nulla egész egy ezred százalékkal egyenlő.
+
+Amennyiben a fentiek szerinti munkanapon az erre szolgáló honlapon a figyelembe veendő érték időlegesen nem kerül megjelenítésre, akkor a kamatperiódus fordulónapját megelőző 5. (ötödik) munkanaphoz időben legközelebb eső megelőző munkanapra vonatkozóan közzétett érték kerül figyelembe vételre.
+Amennyiben pedig a fenti EURIBOR érték fentiek szerinti közzététele megszűnik, avagy a közzététel ellenére már nem felel meg az Európai Unió referenciamutatókra vonatkozó rendelete („Benchmark rendelet”)2 előírásainak, az EURIBOR helyett az „EURIBOR-t Felváltó Kamatláb” alapján történik az éves kamat megállapítása. Az EURIBOR-t Felváltó Kamatláb azt az éves kamatlábat (felár(ak) és kiigazítás(ok) alkalmazásával) jelenti, amely az EURIBOR-t felváltó referenciakamatlábként formálisan megjelölésre kerül (i) az Európai Központi Bank (ECB), a Financial Services and Markets Authority (FSMA), az European Securities and Markets Authority (ESMA) és az Európai Bizottság által a kockázatmentes euró kamatlábak érdekében létrehozott munkacsoport, vagy (ii) az European Money Market Institute mint az EURIBOR referenciamutató-kezelője, vagy (iii) European Money Market Institute, mint az EURIBOR referenciamutató-kezelője felett a Benchmark Rendelet alapján felügyeleti jogkört gyakorló, illetékes hatóság, vagy (iv) a tagállamok által a Benchmark Rendelet alapján kijelölt illetékes nemzeti tagállami hatóság, vagy (v) az Európai Központi Bank által. Az előbbiek szerinti megjelölés, illetve kötelező szabály hiányában az európai bankközi piacon általánosan használt és elfogadott referenciakamatláb kerül alkalmazásra. Azon felár(ak) és kiigazítás(ok), amelyek annak érdekében kerülnek alkalmazásra, hogy az EURIBOR-t Felváltó Kamatláb lehető legteljesebb mértékben megfeleltethető legyen az EURIBOR-nak, a felváltó referenciakamat értékéből levonásra, vagy ahhoz hozzáadásra kerülhetnek (előbbiek során a kialakult piaci gyakorlatot figyelembe kell venni).
+
+
+Az első kamatperiódus esetében – értve ez alatt 2023. március 20. napjától (ezt a napot is beleértve) 2023. június 23. napjáig (ezt a napot nem beleértve) terjedő időszakot – a kamatláb megegyezik a 2023. március 8. napjára vonatkozóan, 2023. március 9-én 11.00-kor, vagy akörüli időpontban (közép- európai idő szerint) a European Money Market Institute által közzétett 3 (három) havi EURIBOR százalékos mértékével, melynek mértéke 2,944% p.a., azaz évi kettő egész kilencszáznegyvennégy ezred százalék. Ennek megfelelően az első kamatperiódusra kifizetendő időarányos kamat mértéke 0,777%, azaz nulla egész hétszázhetvenhét ezred százalék.
+
+1 Az EURIBOR késleltetett értéke, amely előzetes regisztrációhoz kötötten tekinthető meg.
+2 Az Európai Parlament és a Tanács 2016. június 8-i, a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló 2016/1011 EU Rendelete.
+
+A kamat megállapítása napjának meghatározására a nyilvános ajánlattételben kerül sor.
+Az Euró Magyar Állampapírok kamatának megállapításával kapcsolatos feladatokat a nyilvános ajánlattételben előírt időben és módon az ÁKK Zrt. végzi.
+
+A kifizetésre kerülő kamat meghatározása során elsőként az Euró Magyar Állampapír 1,- EUR-s, azaz egy eurós névértékére (alapcímletére) vonatkozóan három tizedesjegyig számítva meghatározásra kerül a kifizetendő kamat összege, majd a névértékre (alapcímletre) eső, így kiszámított kamatösszeg beszorzásra kerül az adott befektető értékpapírszámláján lévő Euró Magyar Állampapírok darabszámával, végül ezen összeg egész eurócentre kerül kerekítésre a kerekítés általános szabályai szerint és a befektető az előbbiek szerint kerekített és összesített kamatösszegre jogosult az érintett Euró Magyar Állampapírok alapján.
+
+Törlesztés, visszavásárlás
+Az Euró Magyar Állampapírt a Kibocsátó lejárat előtt nem váltja vissza. Az Euró Magyar Állampapír névértékének visszafizetése a lejáratkor egy összegben esedékes.
+
+A Kibocsátó a Magyar Államkincstár útján, a Magyar Államkincstár ügyfélfogadási rendje szerinti napokon vételi (visszavásárlási) árfolyamot jegyez az Euró Magyar Állampapírra, így a Magyar Államkincstár üzletszabályzatában leírtak szerint eladhatóak az Euró Magyar Állampapírok a lejáratot megelőzően.
+
+Munkaszüneti napra eső kifizetések
+Amennyiben az Euró Magyar Állampapírral kapcsolatos bármilyen összeg (kamat, törlesztés (névérték)) kifizetésének esedékes napja nem munkanap, akkor - az ÁKK Zrt. eltérő rendelkezése hiányában - a kifizetés napja az azt követő munkanap. Erre az időre a befektetőt nem illeti meg további kamat, vagy bármilyen más összeg.
+Munkanapnak az a nap számít, amelyen a Magyar Államkincstár, illetve a magyarországi befektetési vállalkozások ügyfélfogadás céljából nyitva tartanak, valamint a KELER Zrt., a Magyar Nemzeti Bank és a TARGET23 elszámolási napot tart.
+
+A kamat megállapítása szempontjából munkanapnak a hétfőtől-péntekig tartó időszakba eső, a Magyarországon mindenkor irányadó általános munkarendnek megfelelően munkanapnak minősülő nap számít.
+
+
+
+ADÓZÁS
+A Kibocsátó felhívja a jelen Ismertető olvasóit, hogy a jelen Ismertetőben szereplő adóügyi elszámolásra vagy adóügyi következményre vonatkozó információk csak az érintett befektető egyedi körülményei alapján ítélhetők meg, valamint a jövőben változhatnak. Így különösen, de egyebeket nem korlátozva, az Euró Magyar Állampapír révén a befektető által szerzett jövedelem adókötelezettségére befolyással van a befektető személye, adóügyi illetősége (belföldi, vagy külföldi), a jövedelemszerzés jogcíme (pl.: kamatjövedelem, tartós befektetésből származó jövedelem, vagy ún. NYESZ-R számlán keletkezett összevonás alá eső egyéb jövedelem).
+
+3 A TARGET2 a Transz-európai Automatizált Valós Idejű Bruttó Elszámolási Rendszert jelenti, amely egységes megosztott elszámolási platformot biztosít és amely 2007. november 19. napján került bevezetésre.
+
+A személyi jövedelemadóról szóló – többször módosított – 1995. évi CXVII. törvény (Szja tv.) hatálya alá tartozó befektető esetében a Magyar Államkincstár kifizetőnek minősül, így az Euró Magyar Állampapíron alapuló kifizetésre tekintettel adólevonási, adóbevallási és adómegfizetési kötelezettsége áll fenn.
+
+Belföldi adóügyi illetőségű befektetők esetében a hatályos magyar jogszabályok alapján kerül megállapításra az adókötelezettség.
+Külföldi adóügyi illetőségű befektetők esetében az illetőség szerinti ország és Magyarország között érvényben lévő, a kettős adóztatás elkerülésére vonatkozó egyezmény szerint kerül megállapításra az adókötelezettség a befektető adóügyi illetőségi igazolása – és szükség szerint az ún. haszonhúzói nyilatkozat – alapján.
+
+Az Szja tv. alapján az Euró Magyar Állampapír, mint nyilvánosan forgalomba hozott és forgalmazott, a tőkepiacról szóló 2001. évi CXX. törvény szerint hitelviszonyt megtestesítő értékpapír és egyben a Magyar Állam által kibocsátott, a lakosság, mint befektetői célpiac részére forgalomba hozott hitelviszonyt megtestesítő értékpapír, amelyből származó kamatjövedelem jelen Ismertető hatályba lépésekor érvényes jogszabályok alapján nem minősül jövedelemnek és így mentesül a kamatadó megfizetése alól.
+Ugyanakkor a Kibocsátó felhívja a figyelmet, hogy amennyiben az Euró Magyar Állampapírokat a befektető tartós befektetési értékpapírszámlán kívánja tartani, az Szja tv. tartós befektetésből származó jövedelemre vonatkozó rendelkezései alapján az ötéves lekötési időszak letelte előtti megszakítás esetén a lekötési időszak hosszától függően személyi jövedelemadó-fizetési kötelezettség merül fel.
+
+
+
+KÖZLEMÉNYEK
+
+Az ÁKK Zrt. az Euró Magyar Állampapírok forgalomba hozatalával kapcsolatos közleményeket a saját honlapjain (www.akk.hu és www.allampapir.hu), valamint az MNB által üzemeltett honlapon (kozzetetelek.mnb.hu) jelenteti meg.
+
+
+
+IRÁNYADÓ JOG, ELJÁRÓ BÍRÓSÁG
+Az Euró Magyar Állampapírok forgalomba hozatalának feltételeire Magyarország jogszabályai - különösen a kötvényről szóló 285/2001. (XII.26.) Korm. rendelet, a Tpt. valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény rendelkezései irányadóak.
+
+Az Euró Magyar Állampapírból, mint értékpapírból származó jogviszonnyal kapcsolatos, a Kibocsátó, illetőleg az ÁKK Zrt. és az Euró Magyar Állampapír(ok) tulajdonosa(i) közötti jövőbeli jogvita rendes bírósági útra tartozik.
+
+HATÁLY
+Jelen Ismertető 2023. március 17. napján lép hatályba, rendelkezéseit az Euró Magyar Állampapír elnevezésű, 2026/U sorozatszámú államkötvények tekintetében kell alkalmazni.
+
+
+Budapest, 2023. március 9. Mellékletek:
+A jelű melléklet:	Magyar Államkincstár Állampénztári Irodái és Értékesítési pontjai
+B jelű melléklet:	Lebonyolítási rend
+
+
+
+
+
+
+
+KIBOCSÁTÓ
+a Magyar Állam, melynek nevében az államháztartásért felelős miniszter jár el.
+Az államháztartásért felelős miniszter e jogkörét az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság
+(székhely: 1013 Budapest, Krisztina tér 2.) útján látja el.
+
+Az Ismertető A jelű melléklete
+
+A Magyar Államkincstár Állampénztári Irodái és Értékesítési pontjai
+
+EMÁP fedezet Kincstárhoz utalásának számlaszáma országosan
+IBAN: HU18 1901 7004 8810 4264 7010 0001
+Belföldi: 19017004-88104264-70100001
+
+Megyei Igazgatóság Állampénztári Iroda / Értékesítési pont	Cím / Levelezési cím / Elérhetőség
+Budapesti és Pest Megyei Igazgatóság Állampénztári Irodái	Kirendeltségek:
+	1081 Budapest, Fiumei út 19/A (bejárat az Alföldi utca felöl)
+	1115 Budapest, Bartók Béla út 120- 122.
+	1139 Budapest, Váci út 71.
+	Értékesítési pont
+	1015 Budapest, Hattyú utca 14.
+	1033 Budapest, Harrer Pál utca 9-11.
+	1051 Budapest, Erzsébet tér 3.
+	1173 Budapest, Pesti út 163.
+	1181 Budapest, Üllői út 445.
+	2120 Dunakeszi, Verseny utca 1. 1.emelet
+	2100 Gödöllő, Petőfi Sándor tér 4-6.
+	2200 Monor, Kossuth Lajos utca 78-80.
+	2000 Szentendre, Dózsa György út 8.
+	2310 Szigetszentmiklós, Apor Vilmos utca 1.
+	2600 Vác, dr. Csányi László körút 16.
+	2092 Budakeszi, Dózsa György tér 25.
+	Budakeszi levelezési címe: 2801 Tatabánya, Pf. 1305.
+	2030 Érd, Budai út 24.
+	Érd levelezési címe: 8050 Székesfehérvár, Pf. 387
+	2700 Cegléd, Kossuth tér 7.
+	Cegléd levelezési címe: 5002 Szolnok, Pf. 90
+	Valamennyi értékesítési pont levelezési címe:
+	1398 Budapest, Pf: 554
+Baranya Megyei Igazgatóság Állampénztári Irodái	7621 Pécs, Apáca utca 6.
+	Értékesítési pont
+	7700 Mohács, Széchenyi tér 3.
+	Valamennyi értékesítési pont levelezési címe:
+	7602 Pécs, Pf. 338
+Bács-Kiskun Megyei Igazgatóság Állampénztári Irodái	6000 Kecskemét, Szabadság tér 1.
+	Értékesítési pont
+	6400 Kiskunhalas, Hősök tere 1.
+	6500 Baja, Szentháromság tér 1.
+	Baja levelezési címe: 7101 Szekszárd, Pf. 73
+	Valamennyi értékesítési pont levelezési címe:
+	6001 Kecskemét, Pf. 373
+Békés Megyei Igazgatóság Állampénztári Irodái	5600 Békéscsaba, Dózsa György utca 1.
+	Értékesítési pont
+	5900 Orosháza, Szabadság tér 3.
+	5700 Gyula, Ady Endre utca 8.
+	Valamennyi értékesítési pont levelezési címe:
+	5601 Békéscsaba, Pf. 120
+Borsod-Abaúj-Zemplén Megyei Igazgatóság Állampénztári Irodái	3525 Miskolc, Hősök tere 3.
+	Értékesítési pont
+	3400 Mezőkövesd, Mátyás király út 112. földszint/18.
+	3980 Sátoraljaújhely, Kossuth Lajos tér 5. 10. szoba
+
+	3700 Kazincbarcika, Fő tér 39.
+	Valamennyi értékesítési pont levelezési címe:
+	3502 Miskolc, Pf. 122
+Csongrád Megyei Igazgatóság Állampénztári Irodái	6720 Szeged, Vár utca 5.
+	Értékesítési pont
+	6900 Makó, Széchenyi tér 22.
+	6800 Hódmezővásárhely, Kossuth tér 1.
+	Valamennyi értékesítési pont levelezési címe:
+	6701 Szeged, Pf. 491
+Fejér Megyei Igazgatóság Állampénztári Irodái	8000 Székesfehérvár, Ősz utca 11-13.
+	Értékesítési pont
+	2400 Dunaújváros, Szórád Márton út 39.
+	Valamennyi értékesítési pont levelezési címe:
+	8050 Székesfehérvár, Pf. 387
+Győr-Moson-Sopron Megyei Igazgatóság Állampénztári Irodái	9022 Győr, Czuczor Gergely utca 26.
+	Értékesítési pont
+	9330 Kapuvár, Fő tér 1.
+	9200 Mosonmagyaróvár, Lucsony utca 2.
+	9400 Sopron, Állomás utca 2.
+	Valamennyi értékesítési pont levelezési címe:
+	9002 Győr, Pf. 569
+Hajdú-Bihar Megyei Igazgatóság Állampénztári Irodái	4026 Debrecen, Hatvan utca 15.
+	Értékesítési pont
+	4080 Hajdúnánás, Bocskai utca 12-14.
+	4200 Hajdúszoboszló, Szilfákalja utca 2.
+	Valamennyi értékesítési pont levelezési címe:
+	4002 Debrecen, Pf. 112
+Heves Megyei Igazgatóság Állampénztári Irodái	3300 Eger, Eszterházy tér 5.
+	Értékesítési pont
+	3000 Hatvan, Balassi Bálint utca 12.
+	3200 Gyöngyös, Göncz Árpád utca 2.
+	Valamennyi értékesítési pont levelezési címe:
+	3301 Eger, Pf. 26
+Jász-Nagykun-Szolnok Megyei Igazgatóság Állampénztári Irodái	5000 Szolnok, Magyar út 8.
+	Értékesítési pont
+	5300 Karcag, Kossuth tér 1. földszint
+	5100 Jászberény, Rákóczi út 42-44. földszint 9.
+	Valamennyi értékesítési pont levelezési címe:
+	5002 Szolnok, Pf. 90
+Komárom-Esztergom Megyei Igazgatóság Állampénztári Irodái	2800 Tatabánya, Fő tér 32.
+	Értékesítési pont
+	2500 Esztergom, Babits Mihály út 2.
+	2900 Komárom, Arany János utca 17.
+	2890 Tata, Ady Endre utca 13.
+	Valamennyi értékesítési pont levelezési címe:
+	2801 Tatabánya, Pf. 1305.
+Nógrád Megyei Igazgatóság Állampénztári Irodái	3100 Salgótarján, Rákóczi út 15.
+	Értékesítési pont
+	2660 Balassagyarmat, Rákóczi fejedelem út 12.
+	3060 Pásztó, Nagymező út 3.
+	Valamennyi értékesítési pont levelezési címe:
+	3101 Salgótarján, Pf. 42
+Somogy Megyei Igazgatóság Állampénztári Irodái	7400 Kaposvár, Széchenyi tér 4.
+	Értékesítési pont
+	8600 Siófok, Kálmán Imre sétány 4.
+
+
+	8640 Fonyód, Ady Endre utca 1.
+	Valamennyi értékesítési pont levelezési címe:
+	7401 Kaposvár, Pf. 115
+Szabolcs-Szatmár-Bereg Megyei Igazgatóság Állampénztári Irodái	4400 Nyíregyháza, Széchenyi út 3/A.
+	Értékesítési pont
+	4700 Mátészalka, Kölcsey tér 2.
+	4600 Kisvárda, Szent László út 7-11
+	Valamennyi értékesítési pont levelezési címe:
+	4400 Nyíregyháza, Pf. 27
+Tolna Megyei Igazgatóság Állampénztári Irodái	7100 Szekszárd, Augusz Imre utca 7.
+	Értékesítési pont
+	7030 Paks, Dózsa György utca 51-53.
+	7090 Tamási, Szabadság utca 54.
+	7200 Dombóvár, Szent István tér 1.
+	Valamennyi értékesítési pont levelezési címe:
+	7101 Szekszárd, Pf. 73
+Vas Megyei Igazgatóság Állampénztári Irodái	9700 Szombathely, Széll Kálmán utca 20.
+	Értékesítési pont
+	9600 Sárvár, Várkerület 3. épület
+	9900 Körmend, Szabadság tér 8.
+	Valamennyi értékesítési pont levelezési címe:
+	9701 Szombathely, Pf. 70
+Veszprém Megyei Igazgatóság Állampénztári Irodái	8200 Veszprém, Brusznyai Árpád utca 1.
+	Értékesítési pont
+	8500 Pápa, Szent István út 12. 103. szoba
+	8100 Várpalota, Gárdonyi Géza utca 39.
+	8400 Ajka, Szabadság tér 12.
+	Valamennyi értékesítési pont levelezési címe:
+	8201 Veszprém, Pf. 3000
+Zala Megyei Igazgatóság Állampénztári Irodái	8900 Zalaegerszeg, Dísz tér 7.
+	Értékesítési pont
+	8800 Nagykanizsa, Csengery út 2.
+	8360 Keszthely, Deák Ferenc utca 47.
+	Valamennyi értékesítési pont levelezési címe:
+	8901 Zalaegerszeg, Pf. 181
+
+Az Ismertető B jelű melléklete
+
+Az Euró Magyar Állampapírok adagolt kibocsátás útján történő forgalomba hozatalának lebonyolítási rendje
+Érvényes: 2023. március 17. napjától
+Jelen lebonyolítási rend (a továbbiakban: Lebonyolítási rend) határozza meg a Magyar Állam (a továbbiakban: Kibocsátó) által kibocsátásra kerülő Euró Magyar Állampapírok adagolt kibocsátás útján történő forgalomba hozatalának feltételeit és a kibocsátás során követendő általános eljárási szabályokat.
+1.	Általános rendelkezések
+
+1.1.	A Kibocsátó az Euró Magyar Állampapírt az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (a továbbiakban: ÁKK Zrt.) által meghirdetett adagolt kibocsátással hozza forgalomba.
+1.2.	A Magyar Állam az Euró Magyar Állampapír sorozatait dematerializált értékpapírként bocsátja ki és hozza forgalomba.
+
+1.3.	Az adagolt kibocsátás lebonyolításában a Magyar Államkincstár vesz részt.
+A Magyar Államkincstár vállalja, hogy az Ismertetőt – mellékleteivel együtt – az értékesítés helyén és honlapján, jól láthatóan az ügyfelek tájékoztatása céljából elhelyezi.
+
+1.4.	Az ÁKK Zrt. legkésőbb a forgalomba hozatali eljárás kezdőnapját megelőzően legalább 3 (három) munkanappal a saját honlapjain (www.akk.hu, www.allampapir.hu) és az MNB által üzemeltetett honlapon (kozzetetelek.mnb.hu) közzéteszi a Nyilvános ajánlattételt, amelyben – többek között – meghirdeti a forgalomba hozatalra kerülő Euró Magyar Állampapír sorozatszámát, ISIN-kódját, az adott sorozat forgalomba hozatalának feltételeit, ezen belül az értékesítés kezdő és várható zárási időpontját, az értékesítésre meghirdetett mennyiséget, az Értékesítési Korlátot, az első kamatperiódusra vonatkozóan a kamat mértékét, a kamatfizetés és törlesztés feltételeit, valamint a lejárat napját.
+
+1.5.	A jelen Lebonyolítási rendben meghatározásra kerülő időpontok budapesti idő szerint értendők.
+
+2.	A forgalomba hozatali eljárás lebonyolítása
+2.1.	Vételi nyilatkozatok felvétele a befektetőktől
+2.1.1.	A vételi nyilatkozat írásban, vagy más – a Bszt. szerinti – tartós adathordozón rögzített vételi nyilatkozat megtételével és a Magyar Államkincstár részére történő benyújtásával történik, az értékesítési időszak alatt.
+2.1.2.	Amennyiben a befektető a vételi nyilatkozatot a Magyar Államkincstár részére az adott napon a Magyar Államkincstár vonatkozó üzletszabályzatában/szerződési feltételeiben meghatározott ügyfélfogadási rendje szerinti nyitvatartási/üzletkötési időben benyújtja, úgy az Euró Magyar Állampapír megvásárlásának elszámolása (az érintett Euró Magyar Állampapírok befektető vételi nyilatkozatát felvevő Magyar Államkincstár értékpapírszámlája javára történő jóváírása) a vételi nyilatkozatban megjelölt értéknapon, de legkorábban azon a munkanapon történik, amelyik munkanapon a vételi nyilatkozatra vonatkozó összesítés az ÁKK Zrt. részére benyújtásra kerül, feltéve, hogy az értékesítés egyéb előfeltételei is maradéktalanul rendelkezésre állnak.
+
+Ezen elszámolás tekintetében értéknapnak/munkanapnak az a hétfőtől-péntekig tartó időszakba eső - a Magyarországon mindenkor irányadó általános munkarendnek megfelelően munkanapnak minősülő - nap számít, amelyen a Magyar Államkincstár, illetve a magyarországi bankok/befektetési vállalkozások ügyfélfogadás céljából nyitva tartanak, valamint a KELER Zrt., a Magyar Nemzeti Bank és a TARGET2 elszámolási napot tart.
+
+2.1.3.	Meghatalmazott	útján	történő	vásárlás	esetén	a	Magyar	Államkincstár	vonatkozó üzletszabályzata/szerződési	feltételei	szerint	kell		eljárni,	így		a	meghatalmazottnak közokiratba, vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással kell rendelkeznie, amelyben a befektető, mint meghatalmazó meghatalmazást ad arra, hogy a meghatalmazott a meghatalmazó nevében és javára Euró Magyar Állampapírt vásároljon. Írásban és meghatalmazott útján történő vásárlás esetén a meghatalmazás eredeti példányát csatolni kell a vételi nyilatkozathoz, míg egyéb módon és meghatalmazott útján történő vásárlás esetén a meghatalmazás fennállását vita esetén hitelt érdemlő módon igazolni kell. Természetes személy törvényes képviselője (szülő, gondnok, gyám) ezen minőségét tanúsító okmány szerint járhat el a képviselt személy érdekében.
+
+2.1.4.	Amennyiben a Magyar Államkincstár által a Kibocsátó felé benyújtásra kerülő érvényes vételi nyilatkozatok összesítése során az összmennyiség meghaladja a nyilvános ajánlattételben meghirdetett mennyiséget, az ÁKK Zrt. az összesítés alapján dönt arról, hogy további mennyiséggel megemeli a nyilvános ajánlattételben meghirdetett mennyiséget vagy a nyilvános ajánlattételben meghirdetett mennyiség erejéig fogadja el a vételi nyilatkozatok összegét.
+
+Amennyiben az ÁKK Zrt. a beérkező vételi nyilatkozatok összesítése alapján a nyilvános ajánlattételben meghirdetett mennyiség erejéig fogadja el a vételi nyilatkozatokat, úgy a befektetők közötti allokációt a Magyar Államkincstárnak kell elvégeznie - az ügyfelek közötti elosztás és jóváírás tekintetében - az arányos elosztás elve alapján az ÁKK Zrt. által visszaigazolt értékpapír-mennyiség erejéig.
+
+3.	A pénzügyi teljesítés elszámolása, az értékpapírok jóváírása
+3.1.	A Magyar Államkincstár az adott értéknapra vonatkozóan felvett vételi nyilatkozatok összesítését legkésőbb az értéknapon 9.30 óráig bezárólag köteles az ÁKK Zrt. részére benyújtani.
+
+Az összesítés benyújtását elsősorban e-mail üzenetben (e-mail cím: emap@akk.hu), amennyiben ez nem lehetséges, úgy vagy faxon (Faxszám: 488-9425) vagy személyesen kézbesítve az ÁKK Zrt. hivatalos helyiségében (1013 Budapest, Krisztina tér 2. III em. 310. szoba) lehet megtenni.
+
+Vételi nyilatkozatok összesítésének ÁKK Zrt. felé történő benyújtása tekintetében munkanapnak az a hétfőtől-péntekig tartó időszakba eső - a Magyarországon mindenkor irányadó általános munkarendnek megfelelően munkanapnak minősülő - nap számít, amelyen a Magyar Államkincstár, illetve a magyarországi bankok/befektetési vállalkozások ügyfélfogadás céljából nyitva tartanak, valamint a KELER Zrt., a Magyar Nemzeti Bank és a TARGET2 elszámolási napot tart.
+3.2.	Az értékesítési időszak alatt a Magyar Államkincstár által megfelelően benyújtott, érvényes vételi nyilatkozato(ka)t megtestesítő összesítés az ÁKK Zrt. által - legfeljebb az értékesítésre meghirdetett mennyiség erejéig - automatikusan elfogadásra kerül. A Magyar Államkincstár az ÁKK Zrt.-hez eljutatott vételi nyilatkozat összesítője szerinti, az adott értéknapon, mint elszámolási napon jóváírandó Euró Magyar Állampapírok ellenértékét az ÁKK Zrt. Magyar
+
+Nemzeti Bank-nál (SWIFT kód: MANEHUHBXXX; Számlaszáma: Direct through TARGET2) vezetett HU78190170048812022112000003 IBAN számlaszámú pénzforgalmi számlájára köteles átutalni, oly módon, hogy az ellenérték az előbbi számlán az érintett értéknapon 14.00 óráig bezárólag jóváírásra kerüljön. Amennyiben az ellenérték az adott értéknapon az előbbi időpont után kerül jóváírásra, akkor az elszámolás a jóváírást követő első munkanapon történik meg. Az ellenérték jóváírásának függvényében az ÁKK Zrt. az elszámolási napon történő, fenti
+2.1.2. pont szerinti jóváírás érdekében a Magyar Államkincstár KELER Zrt-nél vezetett értékpapírszámlájának javára értékpapír transzfer megbízást nyújt be a KELER Zrt.-hez. Az ÁKK Zrt. az értékpapírokat a Magyar Államkincstár összesítőjében megadott értékpapírszámlájára transzferálja.
+Amennyiben az ellenérték összege a pénzügyi teljesítés határnapján nem, vagy csak részben kerül jóváírásra, a Magyar Államkincstár 3 (három) munkanapon belül teljesítheti fizetési kötelezettségét, azonban a késedelem idejére az ÁKK Zrt. értesítése alapján a késedelemmel érintett ellenérték-rész után az adott késedelmes napra irányadó €STR 4 + 1% mértéknek megfelelő késedelmi kamatot tartozik megfizetni a vételár kiegyenlítésével azonos pénzforgalmi számlára.
+
+3.3.	Amennyiben a vételár teljes összege – az esetleges késedelmi kamattal együtt - nem érkezik meg hiánytalanul a pénzügyi teljesítés határnapját követő 3 (három) munkanapon belül a jelen Lebonyolítási rend 3.2. szakaszában megjelölt számlájára, az ÁKK Zrt. úgy tekinti, hogy a Magyar Államkincstár elállt az ügylettől. Az ÁKK Zrt. az elállás esetére a késedelmi kamattal növelt, meg nem fizetett ellenérték összeg 10%-ának megfelelő összegű bánatpénzt köt ki, amely összeget
+a)	amennyiben erre a jóváírt összeg fedezetet nyújt az ÁKK Zrt. a Magyar Államkincstár által megfizetett összegből visszatart, a fennmaradó különbözetet pedig a pénzügyi teljesítés határnapját követő negyedik munkanapon visszautalja a Magyar Államkincstár pénzforgalmi számlájára;
+b)	amennyiben az ajánlattevő részéről befizetés nem történt vagy a befizetett összeg nem fedezi a bánatpénz megállapított értékét, a Magyar Államkincstár ÁKK Zrt. értesítése alapján bánatpénz összegét 8 (nyolc) napon belül köteles befizetni az értesítésben megadott számlaszámra. Amennyiben ezen határidőn belül az esedékes összeg nem érkezik meg a megjelölt számlára, akkor az ÁKK Zrt. jogosult azt a Magyar Államkincstár későbbi - a Magyar Állam által forgalomba hozott lakossági állampapírok forgalomba hozatalára és forgalmazására vonatkozó megbízási szerződés szerinti és az alapján járó - díjából levonni.
+
+A Magyar Államkincstár fentiek szerinti nem, vagy késedelmes teljesítéséből eredő károkért és egyéb következményekért a Kibocsátó és az ÁKK Zrt. nem vállal felelősséget.
+
+3.4.	A jelen fejezetben foglalt határidők Magyar Államkincstárnak felróható be nem tartásából az ügyfeleknek okozott károkért és egyéb jogkövetkezményekért a Magyar Államkincstár felel.
+
+ÁKK Zrt.
+
+4 €STR: az ún. Euro Short Term Rate kamatmérték, amely az euróban denominált bankközi, biztosíték nélküli egynapos hitelekre vonatkozóan az Európai Központi Bank által kerül kiszámításra, és amelyet az előbbi szervezet döntésével összhangban állítanak össze és hoznak nyilvánosságra (jelenleg az Európai Központi Bank számítása mellett, az Európai Központi Bank oldalán kerül nyilvánosságra hozatalra).
