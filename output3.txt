@@ -1,0 +1,181 @@
+START-SZÁMLA ÁLTALÁNOS SZERZŐDÉSI FELTÉTELEI
+
+ERSTE BANK HUNGARY ZRT.
+
+Jelen Általános Szerződés Feltételek
+Közzététele: 2023. február 13.
+Hatályba lépés: 2023. február 14.
+
+Az ÁSZF szürke háttérrel kiemelve tartalmazza az alábbi módosításokat:
+•	adatkezeléssel kapcsolatos rendelkezések törlése (1.6. pont)
+•	értesítésekkel kapcsolatos rendelkezések pontosítása (7.2. pont)
+•	számlatulajdonos jogosultságának megszűnésére vonatkozó rendelkezések (8.6. pont)
+•	záró rendelkezések III.1. pontjának módosítása
+ 
+I.	Bevezető rendelkezések
+Az ERSTE BANK HUNGARY ZRT. (továbbiakban: Bank) a Pénzügyi Szervezetek Állami Felügyelete 2004. augusztus 26. napján kelt, I-2061/2004. számú tevékenységi engedélyében foglalt felhatalmazása alapján jogosult betétet gyűjteni, valamint pénzforgalmi szolgáltatásokat nyújtani.
+A Bank a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. Törvény (továbbiakban: Törvény) alapján a 2012. október 1-je előtt megnyitott Start-számlákat vezeti és kezeli a Start- számlán nyilvántartott megtakarításokat. Új Start-számlát a Törvény 2012. október 1-jén hatályba lépő módosítása alapján 2012. október 1-jétől már nem lehet nyitni a Banknál.
+A mindenkor hatályos Start-számla Általános Szerződési Feltételek (továbbiakban: ÁSZF), a Start-számlavezetés során alkalmazott kondíciókról, illetve a Start-számlán nyilvántartott megtakarítás után fizetett betéti kamatok mértékéről kiadott banki Hirdetmény, és a Szülő/Számlatulajdonos között létrejövő Start-számlaszerződés elválaszthatatlan részét képezi.
+A Bank a mindenkor hatályos ÁSZF-et az ügyfélforgalom lebonyolítására szolgáló üzlethelyiségeiben kifüggeszti, valamint a Bank honlapján (www.erstebank.hu) közzéteszi és azt az ügyfelek részére átadja.
+
+Fogalmak.
+Start-számla: A Bank által a Számlatulajdonos gyermek javára és nevére a Ptk. 530.§-ra figyelemmel, a Ptk. 529.§ alapján nyitott olyan megtakarítási forint bankszámla, amelyen a fiatalok életkezdési támogatásról szóló 2005. évi CLXXIV. sz. törvény szerinti életkezdési támogatás kezelése történik.
+Kincstári letéti Start-számla: a kiutaló Magyar Államkincstár által a gyermek nevén vezetett nyilvántartási számla
+Szülő: a gyermeknek családi pótlékra jogosult szülője vagy családi pótlékra jogosult más törvényes képviselője.
+Gyermek: A Magyar Köztársaság területén lakóhellyel rendelkező magyar állampolgár a 18. életévének betöltése napjáig.
+Fiatal felnőtt: a 18. életévének betöltése napját követően a Magyar Köztársaság területén lakóhellyel rendelkező magyar állampolgár.
+Hozzátartozó: a gyermek a Polgári Törvénykönyvről szóló törvény szerinti- szülőnek nem minősülő - hozzátartozója és az egyenes ágbeli rokon testvére.
+
+Kiutaló: Magyar Államkincstár
+Életkezdési támogatás: a gyermeket 18. életévének betöltése napján a Törvény alapján a Magyar Köztársaság törvényes fizetőeszközében megillető összeg.
+Utalási összeg: A Kiutaló által a gyermek javára a Bankhoz a Törvény alapján átutalt összeg, amelyet a Bank a Start-számlán ír jóvá.
+Start-számlaszerződés: a Bank és a Számlatulajdonos gyermek között Start-számla megnyitására és vezetésére megkötött bankszámlaszerződés, amelynek alapján a Bank kötelezettséget vállal arra, hogy a Számlatulajdonos rendelkezésére álló pénzeszközöket kezeli, nyilvántartja, továbbá a Start-számlán a Start-számlára vonatkozó jogszabályokban meghatározott pénzforgalmat bonyolítja, valamint a Szülőt/Számlatulajdonost a Start-számlán jóváírt és terhelt összegekről, valamint egyenlegéről értesíti.
+Számlatulajdonos: a 2005. december 31. napja után született, Magyar Köztársaság területén lakóhellyel rendelkező magyar állampolgársággal rendelkező, akinek a javára és nevére a Banknál Start-számlaszerződés került megkötésre 2012. október 1-je előtt.
+Utalási összeg: a Kiutaló által a gyermek javára a Start-számlát vezető Bankhoz a Törvény alapján átutalt összeg.
+EBKM: 82/2010. (III.25.) Korm. rendelet szerinti egységesített betéti kamatlábmutató.
+ 
+Hirdetmény: a Start-számla vezetésére vonatkozó, a Bank üzlethelyiségeiben kifüggesztett, valamint a Bank honlapján közzétett (www.erstebank.hu) tájékoztató, mely a kamatok, díjak, jutalékok, költségek típusát, mértékét, esedékességét, számításának módját, valamint a fizetési megbízások teljesítési rendjét és más szerződéses elemeket tartalmaz.
+
+II.	A Start-számlára vonatkozó általános rendelkezések
+
+1.	Start-számla megnyitása
+
+1.1.	Start-számlát a Törvény 2012. október 1-jétől hatályos módosítása alapján 2012. október 1-jétől a Banknál már nem lehet újonnan nyitni.
+1.2.	A Bank 2012. szeptember 30-ig a Start-számlaszerződést az életkezdési támogatásra jogosult gyermek szülőjével kötötte meg, a gyermek, mint Számlatulajdonos javára és nevére.
+1.4.	A Start-számlaszerződés alapján a Bank kötelezettséget vállal arra, hogy a Számlatulajdonos gyermek részére Start-számlát vezet, amelyen a Számlatulajdonos rendelkezésére álló pénzeszközöket kezeli és nyilvántartja, a Start-számlán a Start-számlára vonatkozó jogszabályokban meghatározott pénzforgalmat bonyolítja, valamint a Szülőt/Számlatulajdonost a Start-számlán jóváírt és terhelt összegekről, valamint egyenlegéről értesíti.
+1.5.	A Számlatulajdonos csak egy Start-számlával rendelkezhet.
+1.6.	A Bank a Szülőről/Számlatulajdonosról a következő személyi adatokat tartja nyilván: családi és utóneve (születési név), állandó lakcíme és levelezési címe, születési helye, és ideje, anyja születési neve, állampolgársága, személyazonosító okmány típusa és száma, gyermek adóazonosító jele.
+
+2.	Start-számla feletti rendelkezés
+
+2.1.	A Bank a Start-számlát a Számlatulajdonos nevére nyitja meg. A Számlatulajdonos Start- számlája felett a Szülő a Start-számlaszerződés hatálya alatt kizárólag a vonatkozó jogszabályokban meghatározott esetekben /Start-számla megszüntetése, illetve a Start-számla állomány átcsoportosítása/ jogosult rendelkezni.
+2.2.	A Számlatulajdonos gyermek a 16. életévének betöltését követően - a Szülő egyetértő nyilatkozatával - lesz jogosult a Start-számla felett rendelkezni, addig csak a Szülő rendelkezhet az előzőekben írtaknak megfelelőn a Start-számla felett.
+2.3.	A Start-számlán halál esetére szóló kedvezményezett nem jelölhető meg, a Start-számlán lévő követelés a hagyaték tárgyát képezi, az a Számlatulajdonos halála esetén az örökösnek kerül kifizetésre öröklési bizonyítvány vagy jogerős hagyatéki határozat alapján.
+
+3.	Számlaforgalom
+
+3.1.	A Start-számla követelés - utoljára a Számlatulajdonos gyermek 18. születésnapjának betöltéséig kiegészíthető
+a)	természetes személy által történő befizetéssel,
+b)	települési önkormányzat által az önkormányzat rendeletében meghatározott feltételekkel történő befizetéssel.
+
+3.2.	A Start-számlán – a Banki számlavezetési költséget kivéve – terhelés nem, csak jóváírás engedélyezett. A Start-számlára történő átutalási megbízással vagy készpénz befizetéssel forintban vagy devizában/valutában befizetés teljesíthető. A devizában, valutában történő befizetést a Bank a mindenkori Banki Hirdetmény szerinti árfolyamon, díjmentesen végrehajtott konverziót követően forintban írja jóvá a Start-számlán.
+A befizetésre vonatkozó megbízásnak tartalmaznia kell a következő adatokat is: Számlatulajdonos neve, Start-számla száma.
+A Start-számlára történő befizetés feltétele, hogy a befizető előzetesen felhatalmazza a Bankot, hogy a befizetett összeg esetleges visszautalásához a befizető nevét és levelezési címét vagy fizetési számla számát a Bank nyilvántartsa.
+ 
+A Bank nyilvántartja a befizető nevét, levelezési címét, fizetési számla számát, a települési önkormányzat befizetéseit.
+A Bank pénztáránál történt befizetéseket a Bank tárgynapon írja jóvá a Start-számlán.
+A Bank a Start-számlára a postai befizetésből érkező összegeket a tudomásszerzés napján írja jóvá.
+A Bank a megbízások átvételére szolgáló időpontokról, a megbízások teljesítésének rendjéről, esedékességéről és mindezek változásáról Hirdetmény útján ad tájékoztatást.
+
+3.3.	A Bank a gyermek külföldi letelepedésének időszakában történő befizetést a Start-számlán nem írja jóvá, azt a Bank átutalási megbízás esetén visszautalja az átutaló fizetési számlájára, pénztári befizetés esetén a befizetést visszautasítja.
+
+3.4.	A Start-számla korlátozott rendeltetésű bankszámla, amelyre terhelési megbízás a Törvényben és a jelen ÁSZF 3.5. pontjában meghatározott kifizetés napjáig nem adható.
+
+3.5.	A Start-számlán nyilvántartatott követelés kifizetését
+a)	a fiatal felnőtt Számlatulajdonos a 18. életévének betöltése napjától, de legkorábban a Start- számla megnyitását követő 3. év elteltétől
+b)	a gyermek, illetőleg a fiatal felnőtt Számlatulajdonos halála esetén a Számlatulajdonos örököse a hagyatéki határozat jogerőre emelkedését követően kezdeményezheti a Banknál.
+
+4.	Kamatozás
+
+4.1.	A Bank a Start-számlán fennálló követelés napi záró állománya után a Számlatulajdonosnak a mindenkor hatályos Hirdetményben meghatározott mértékű betéti kamatot fizet, amelyet a Számlatulajdonos külön rendelkezése nélkül jóváír a Start-számlán.
+
+4.2.	A Start-számlán fennálló követelés osztott sávos kamatozással kamatozik. Az osztott sávos kamatozás azt jelenti, hogy a Bank Hirdetményében az adott összegsávra vonatkozóan meghirdetett betéti kamat mértéke csak az arra a sávra eső betéti összeg után kerül megállapításra.
+
+4.3.	A Start-számlán lévő összeg a Bank fiókjaiban teljesített befizetés esetén az elhelyezés napjától, postai befizetés, más pénzforgalmi szolgáltatótól érkezett átutalás esetén a Bankhoz beérkezése napjától, a kifizetést megelőző napig kamatozik.
+4.4.	A Start-számla napi záró egyenlege után járó kamat számítása napi kamatláb alkalmazásával, napi kamatszámítással az alábbi képlet alapján történik.
+tőke (Ft) x kamatláb (%) x naptári napok száma kamatösszeg (Ft) =	 	
+360x100
+Az EBKM számítása az alábbi képlet alapján történik:
+
+ahol
+n: a kamatfizetések száma, r: az EBKM századrésze,
+ti: a betételhelyezés napjától az i-edik kifizetésig hátralévő napok száma,
+(k+bv)i: az i-edik kifizetéskor kifizetett kamat és betétösszeg visszafizetés összege. Az EBKM értékét a Hirdetmény tartalmazza.
+4.5.	A Bank a kamatot minden naptári félév végén írja jóvá a Start-számlán. A kamat tőkésítésre kerül. A kamat a Start-számlán lévő követelés kifizetésének napján válik esedékessé.
+
+4.6.	A Start-számlán elhelyezett összegek visszafizetésére és a kamat kifizetésére vonatkozó követelés nem évül el. A Start-számlán nyilvántartott pénzkövetelés személyenként - a Számlatulajdonos Banknál elhelyezett egyéb pénzeszközeivel összevontan - kamatokkal együtt
+ 
+az Országos Betétbiztosítási Alap által, biztosított. A betétbiztosítás, kártalanítás részletes szabályait a Bank Üzletszabályzata tartalmazza.
+
+5.	Támogatások
+
+5.1.	Életkezdési támogatás
+
+5.1.1.	A Törvény alapján életkezdési támogatás a fiatal felnőttet az utalási összegek alapján illeti meg. Az utalási összeg, amelyet a Törvény állapít meg:
+a)	a gyermek születésének évében (első utalási összeg), továbbá
+b)	a gyermek születésének évét követő hetedik évben (második utalási összeg) és a gyermek születésének évét követő tizennegyedik évben (harmadik utalási összeg) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. Törvény szerinti rendszeres gyermekvédelmi kedvezményre jogosult gyermek esetében, valamint az átmeneti vagy tartós nevelésbe vett gyermek esetében
+jár.
+
+5.1.2.	Amennyiben a Számlatulajdonos gyermek jogosult második és harmadik utalási összegre, úgy a jogosultság teljes körű igazolását követő 8 munkanapon belül kerül sor az életkezdési támogatásnak a Start-számlára történő átutalására.
+
+5.2.	Állami támogatás igénylése
+
+5.2.1.		A Számlatulajdonost a Törvény szerint állami támogatás illeti meg a Start-számlára a naptári évben történt befizetések után.
+
+5.2.2.	Az állami támogatást a Számlatulajdonos javára a Bank igényli a Kiutalónál a naptári évet követő március 1. napjáig. Az állami támogatás összegét a Kiutaló az igénylés kézhezvételétől, de legelőbb a benyújtási határidő lejártától számított 30 naptári napon belül átutalja a számlavezető Bankhoz.
+
+
+5.2.3.	A Törvény szerint rendszeres gyermekvédelmi kedvezményre jogosult, illetve átmeneti vagy tartós nevelésbe vett gyermek Számlatulajdonos esetében a magasabb összegű állami támogatásra való jogosultságot a Bank felé igazolni kell. A magasabb összegű állami támogatásra való jogosultság igazolására – a 43/2013 (X.1) számú NGM rendeletben meghatározott tartalommal és formában kiállított – irat szolgál, amelyet a gyámhatóság vagy egyetértő nyilatkozata alapján – 16. életévének betöltését követően – a Számlatulajdonos gyermek a Bank írásbeli megkeresése alapján a naptári évet követő év január 15-ig köteles eljuttatni a Bankhoz. Az igazolást a gyermek állandó lakóhelye szerinti települési önkormányzat jegyzője vagy a gyámhatóság állítja ki. A Szülő/Számlatulajdonos tudomásul veszi(k), hogy a gyermekvédelmi jogosultság igazolására szolgáló iratnak a Bankhoz a fenti határidőben történő eljuttatása a Törvény szerinti magasabb összegű állami támogatás igénylésének feltétele. A magasabb összegű állami támogatásra való jogosultságot igazoló irat Bank részére történő eljuttatásának elmulasztásából vagy késedelmes eljuttatásából eredő kárért a Bank nem felel.
+
+6.	Díjak, költségek, árfolyamok
+
+6.1.	A Bank a Start-számla vezetésért, a követelés nyilvántartásáért, a számlán lévő pénzforgalom lebonyolításáért, jogosult díjat, költséget, jutalékot (továbbiakban együttesen: jutalék) felszámítani. A Bank által mindenkor felszámított jutalékok típusára, mértékére és esedékességére a mindenkori Hirdetmény ad tájékoztatást.
+6.2.	A Számlatulajdonos felhatalmazza a Bankot, hogy a díjak, jutalékok és költségek összegével esedékességkor a Start-számlát minden más fizetési megbízást megelőzően megterhelje.
+6.3.	A Bank által alkalmazott árfolyamtípusokat, az árfolyamjegyzési időpontokat a Hirdetmény, a banki munkanapon jegyzett árfolyamokat a bankfiókban kifüggesztett árfolyamjegyzék tartalmazza. A Bank által alkalmazott árfolyamok referencia-árfolyamon alapulnak, a Reuters oldalán közzétett bankközi piaci árfolyamjegyzéseket tekinti a Bank referencia-árfolyamnak, a
+ 
+Bank az árfolyamot jogosult azonnali hatállyal, a Számlatulajdonos külön értesítése nélkül megváltoztatni.
+
+7.	Számlatulajdonos tájékoztatása
+
+7.1.	Számlakivonat
+
+A Bank a Számlatulajdonost a Start-számlán történt forgalomról és egyenlegéről, a jóváírt kamatról számlakivonaton értesíti, melyet a Bank a Szülő/Számlatulajdonos által a Start- számlaszerződésben megadott levelezési címre küld meg postai úton díjmentesen a Start- számlán történt jóváírással, illetve terheléssel érintett hónapban.
+A Számlatulajdonos további, a számlakivonat pótlására irányuló kérését a Bank a mindenkori Hirdetményben feltüntetett díj ellenében teljesíti.
+
+7.2.	Egyéb értesítések
+
+A Bank és a Szülő/Számlatulajdonos a Ptk. 4.§. (1) bekezdése szerinti együttműködési kötelezettségük alapján minden olyan tényről, körülményről, esetleges változásról kötelesek haladéktalanul tájékoztatni egymást, mely a Start-számlaszerződés teljesítése tekintetében jelentőséggel bírhat.
+A Start-számlaszerződésben érintő adatok változása esetén a Szülő/Számlatulajdonos köteles a tudomásszerzéstől számított 5 munkanapon belül a Bankot írásban értesíteni a változásról, ennek elmulasztásából eredő károkért a Bank nem felel.
+A Bank a Start-számlához kapcsolódóan a Szülőnek/Számlatulajdonosnak megküldendő értesítéseket és küldeményeket (ideértve a számlakivonatokat és a Start-számlához nyújtott szolgáltatásokra vonatkozó szerződéseket, nyilatkozatokat és az abban történő módosítási javaslatokat is) - amennyiben a felek a Start-számlaszerződésben eltérően nem állapodnak meg
+- a Szülő/Számlatulajdonos által megadott levelezési címre, ennek hiányában a Szülő/Számlatulajdonos állandó lakcímére küldi meg.
+Posta útján a Bank által ismert címre – elküldést igazoló feladójegyzék vagy feladóvevény alapján
+– igazoltan megküldött iratok, levelek legkésőbb az elküldést követő ötödik munkanapon kézbesítettnek tekintendők.
+
+8.	A Start-számlaszerződés megszűnése
+
+8.1.	A Start-számlaszerződést a Szülő, illetve a 16. életévét betöltött Számlatulajdonos a szülő egyetértésével jogosult megszüntetni írásban, azonnali hatályú felmondással, feltéve, ha a felmondással egyidejűleg írásban rendelkezik a Start-számlán lévő követelés összegének a Kiutalónál megnyitásra kerülő Start-számlára történő áthelyezéséről.
+
+A Kiutalónál megnyitásra kerülő Start-számlára áthelyezés esetén a Kiutalónak - az áthelyezést kezdeményező Szülő/Számlatulajdonos részére az új Start-számla megnyitására vonatkozóan előzetesen szándéknyilatkozatot és a befektetési lehetőség kiválasztása alapján az áthelyezéshez szükséges adatokat tartalmazó ígérvényt kell kiadnia, amelyet a Szülő/Számlatulajdonos a felmondással egyidejűleg a Banknak köteles átadni. Ezen ígérvény átadása nélkül a felmondás nem érvényes. A Bank nem felel a Kiutaló által kiállított szándéknyilatkozat/ígérvény hitelességéért.
+
+A Start-számla megszüntetési kérelem és a Kiutaló által teljeskörűen kitöltött ígérvény Bank általi kézhezvételét követően haladéktalanul intézkedik a Start-számlán nyilvántartott követelésnek a Kiutalóhoz történő áthelyezése és a Banknál vezetett Start-számla megszüntetése iránt.. A Start- számla állomány áthelyezése esetén a Bank igazolást állít ki a Kiutalónak, amelyből megállapítható, hogy a Start-számlára az adott naptári évben természetes személy(ek) által mekkora összegű befizetés történt.
+ 
+8.2.	A fiatal felnőtt Számlatulajdonos 18. életéve betöltésének napját, illetőleg a Számlatulajdonos gyermek halála esetén elhunytának napját követően a Start-számla követelésre és a Start-számla vezetésére a Törvény értelmében az általános jogszabályi rendelkezések az irányadók.
+
+8.3.	A Számlatulajdonos gyermek 18. életéve betöltésének napját követően a fiatal felnőtt Számlatulajdonos jogosult a Start-számlán lévő követelésről rendelkezni a Törvényben meghatározottak szerint és a Start-számlát azonnali hatályú felmondással megszüntetni és a pénzkövetelés kifizetését igényelni. Amennyiben a Start-számla megszüntetését a fiatal felnőtt Számlatulajdonos a 18. életéve betöltését követő 30 napon belül nem kezdeményezi, úgy a számlaszerződés nem szűnik meg, viszont e naptól kezdődően - a felek külön jognyilatkozata nélkül - a számlaszerződés akként módosul, hogy a számlavezetésre és az azon nyilvántartott számlakövetelésre az Erste Standard Lakossági Bankszámlára vonatkozó általános szerződési feltételek és Hirdetmények kondíciói (kamat, díj, jutalék, költség) vonatkoznak. A Számlatulajdonos a számlaszerződés módosítására, megszüntetésére a Bank által átminősített számlatípus szerinti szerződési feltételek szerint lesz jogosult.
+
+8.4.	A Start-számla megszűnik a gyermek, illetőleg a fiatal felnőtt Számlatulajdonos halála esetén is. A Start-számlán nyilvántartott követelés kifizetését a jogerős hagyatéki határozat szerinti örökös kezdeményezheti a Banknál.
+
+8.5.	A Bank jogosult a Start-számlaszerződést azonnali hatállyal megszüntetni, amennyiben megállapítást nyer, hogy a Szülő/Számlatulajdonos több Start-számlával rendelkezik egyidejűleg, és a Szülő/Számlatulajdonos nem a Banknál nyitott Start-számlát kívánja megtartani, illetve a Kiutaló a támogatás összegét nem a Banknál nyitott Start-számlára utalja.
+
+8.6.	A Bank a Számlatulajdonos gyermek külföldre letelepedése adóazonosító jelének passzívvá
+ 
+időszakában támogatás nem jár, továbbá befizetés a számlán nem írható jóvá.
+
+III.	Záró rendelkezések
+1.	A Bank jogosult a jelen ÁSZF-ben foglaltakat, a Start számlaszerződést, a Hirdetményben foglalt kondíciókat (díj, költség, jutalék, kamat) és egyéb szerződési feltételt egyoldalúan módosítani. A Bank a jutalék, költség, díj, kamat és szerződés egyéb feltételeinek - ideértve a Start számlaszerződés és a jelen ÁSZF rendelkezéseit is - a Számlatulajdonos számára kedvezőtlen egyoldalú módosítására az alábbi feltételek és körülmények bármelyikének külön vagy együttes bekövetkezése esetén jogosult:
+a)	a Bank a jelen ÁSZF-ben meghatározott szolgáltatások nyújtásával kapcsolatos tevékenységére és működési feltételeire vonatkozó hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény, a pénzforgalmi szolgáltatásról szóló 2009. évi LXXXV. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény, a fogyasztóknak nyújtott hitelről szóló 2009. évi CLXII. törvény, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény és e törvények felhatalmazása alapján kiadott rendeletek, valamint az Európai Unió jogalkotásának eredményeként Magyarországon is kötelezően alkalmazandó jogszabály hatályba lépése vagy változása; a Bank tevékenységére, működési feltételeire vonatkozó vagy azt érintő jogszabályváltozás, jegybanki rendelet vagy a Bankra kötelező egyéb jogszabályok, ill. hatósági előírások megváltozása;
+b)	a Bank által a jelen ÁSZF-ben meghatározott szolgáltatásokkal összefüggésben a Bankra háruló közteher fizetési kötelezettség növekedése;
+c)	a Központi Statisztikai Hivatal éves fogyasztói árindex változása;
+d)	a jelen ÁSZF-ben meghatározott szolgáltatásokkal összefüggésben harmadik személy által, vagy közreműködésével nyújtott szolgáltatás esetében a szolgáltatás feltételeinek díjszabásában bekövetkező alábbi változások:
+1.	Magyar Posta Zrt. és a Bank által igénybevett távközlési szolgáltató szolgáltatási feltételeiben, díjaiban történő változás;
+
+2.	A GIRO Zrt. határozatában megállapított és az MNB által engedélyezett Bankközi Klíring Rendszer Díjszabályzatában történő változás, mely Díjszabályzat elérhető a www.giro.hu oldalon.
+e)	A Bank jogszabályi kötelezettségének megfelelése érdekében a jelen ÁSZF-ben meghatározott szolgáltatásokkal összefüggésben végzett informatikai rendszerek fejlesztéséből eredő költségek változása. fogyasztói árindex változása, valamint f) a pénz- és tőkepiaci viszonyok változása.
+A jelen ÁSZF-nek és a Hirdetménynek a Számlatulajdonosra nézve kedvezőtlen módosítását a Bank a módosítás hatálybalépését megelőzően legalább két hónappal írásban kezdeményezheti. Amennyiben a Számlatulajdonos, illetve a Szülő a módosítást nem fogadja el, úgy a módosítás hatályba lépésig jogosult a számlaszerződést felmondani. Amennyiben a Számlatulajdonos, illetve a Szülő a módosítás hatálybalépésig észrevételt nem tesz, kifogást nem emel, a Bank a módosítást a Számlatulajdonos részéről elfogadottnak tekinti.
+A Bank a Számlatulajdonos számára nem kedvezőtlen, a Start-számlaszerződésre - ideértve a jelen ÁSZF-t és Hirdetményt és Üzletszabályzatot is – és azokban foglalt szerződéses feltételekre, kamatokra, díjakra vonatkozó módosítás kezdeményezésére bármikor, feltételek nélkül jogosult. A Bank a módosításról a Számlatulajdonost a bankfiókban, valamint a Bank honlapján is elhelyezett Hirdetmény útján értesíti, legkésőbb a módosítás hatályba lépésének napját megelőző banki munkanapon.
+2.	A Start-számla vezetésével kapcsolatos panasz jogával a Szülő/Számlatulajdonos az Üzletszabályzatban meghatározott módon élhet. A panasz ügyintézésének szabályait (panasz benyújtásának helye, válaszadás határideje, panaszkezelési eljárás stb.) a Bank Üzletszabályzata tartalmazza.
+3.	A jelen ÁSZF-ben nem szabályozott kérdésekben a Polgári Törvénykönyv, a hitelintézetekről és pénzügyi vállalkozásokról 2013. évi CCXXXVII. törvény, a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény, illetve a pénzmosás megelőzéséről szóló mindenkor hatályos jogszabályok, a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. Törvény, a Bank Üzletszabályzata, a Start-számlaszerződés és a Hirdetmény az irányadóak.
+Jelen ÁSZF rendelkezéseit érintő, a hitelintézetek által kötelezően alkalmazandó jogszabály változása esetén, az új, illetve a módosult jogszabályi rendelkezés automatikusan jelen ÁSZF részévé válik.
+A jelen ÁSZF módosításokkal egységes szerkezetben 2023. február 14. napján lép hatályba és egyidejűleg hatályát veszti a 2012. október 01. napjától hatályos ÁSZF.
+
+ERSTE BANK HUNGARY ZRT.
