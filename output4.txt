@@ -1,0 +1,498 @@
+MINŐSÍTETT FOGYASZTÓBARÁT SZEMÉLYI HITEL ÁLTALÁNOS SZERZŐDÉSI FELTÉTELEK
+
+Az MKB Bank Nyrt. és a Takarékbank Zrt. 2023. április 30. napjával egyesült. A Takarékbank Zrt. beolvadt az MKB Bank Nyrt.-be, a beolvadó Társaság általános jogutódja az MKB Bank Nyrt. Az MKB Bank Nyrt. az egyesülést követően MBH Bank Nyilvánosan Működő Részvénytársaság (rövid neve: MBH Bank, a továbbiakban Bank/Hitelintézet) néven folytatja működését. A Magyar Nemzeti Bank H-EN-I-57/2023. határozatszámon 2023. február 06-án engedélyezte az egyesülést és az MKB Bank egyesülést követő névváltozását.
+
+Hatályos: 2023. május 1. napjától
+ 
+Tartalomjegyzék
+1.	ÁLTALÁNOS RENDELKEZÉSEK	3
+AZ ÁLTALÁNOS SZERZŐDÉSI FELTÉTELEK HATÁLYA, ELFOGADÁSA, MÓDOSÍTÁSA	3
+Az egyoldalú módosítás szabályai	3
+FOGALOM MEGHATÁROZÁSOK	4
+2.	ÁLTALÁNOS RENDELKEZÉSEK	7
+ÁLTALÁNOS SZABÁLYOK	7
+KÖLCSÖNKÉRELEM BENYÚJTÁSA	8
+Az ajánlati kötöttség időtartama az ajánlat kiállítását követő 30 nap,	10
+A KÖLCSÖNKÉRELEM ELBÍRÁLÁSA	10
+A KÖLCSÖN BIZTOSÍTÉKAI	11
+KAPCSOLÓDÓ SZOLGÁLTATÁSOK	11
+Kapcsolódó szolgáltatások, amelyeket az Adósnak igénybe kell vennie a hitelfelvételhez	11
+Kapcsolódó szolgáltatások, amelyeket Adós igénybe vehet a hitelfelvételhez	11
+A SZERZŐDÉSKÖTÉS ÉS SZERZŐDÉSMÓDOSÍTÁS ÁLTALÁNOS SZABÁLYAI	12
+A KÖLCSÖN FOLYÓSÍTÁSÁNAK ÁLTALÁNOS FELTÉTELEI	12
+A KÖLCSÖN FOLYÓSÍTÁSÁNAK IDŐPONTJA	12
+A HITELINTÉZET ELÁLLÁSI JOGA A KÖLCSÖN FOLYÓSÍTÁSA ELŐTT	13
+A KÖLCSÖN KAMATPERIÓDUSA, ÜGYLETI KAMATA, ÉS TELJES HITELDÍJ MUTATÓJA	13
+A kölcsön kamata	13
+A kölcsön ügyleti kamatának meghatározása és számítási módja	13
+A teljes hiteldíj mutató (THM)	14
+ALKALMAZOTT EGYÉB DÍJTÉTELEK, JUTALÉKOK ÉS KÖLTSÉGEK	14
+A kölcsön folyósításáig, valamint a futamidő során felmerülő díjak/költségek	14
+Lejárat előtti visszafizetéshez (előtörlesztéshez) kapcsolódó díj	14
+Szerződésmódosítási díj	15
+Ügyintézési díj	15
+Monitoring díj	15
+Egyéb díjak:	15
+AZ ÜGYLETI KAMAT, ILLETVE DÍJAK MÓDOSÍTÁSA	15
+Egyoldalú módosításra okot adó feltételek és körülmények	15
+Az egyoldalú módosítás egyéb szabályai	16
+A KÖLCSÖN TÖRLESZTÉSE	16
+A KÖLCSÖN TÖRLESZTŐ RÉSZLETE	17
+A TÖRLESZTŐ RÉSZLET ESEDÉKESSÉGE	17
+A KÖLCSÖN ELŐTÖRLESZTÉSE	17
+A PÉNZÜGYI TELJESÍTÉS MÓDJA ÉS HATÁRIDEJE	18
+A SZERZŐDÉS MEGSZŰNÉSE	19
+A SZERZŐDÉS FELMONDÁSA	20
+A felmondás hatályba lépése	20
+A felmondás jogkövetkezményei	21
+ÜGYFELEK EGYÉB JOGAI ÉS KÖTELEZETTSÉGEI	21
+Az Adós kötelezettségei	21
+A Hitelintézet jogai és kötelezettségei	21
+3.	ZÁRÓ RENDELKEZÉSEK	23
+AZ ÁLTALÁNOS SZERZŐDÉSI FELTÉTELEK HATÁLYBA LÉPÉSE	23
+AZ ÁSZF KÖZLÉSE	24
+ALKALMAZÁSI ZÁRADÉK	24
+ 
+1.	Általános rendelkezések
+
+
+            Az Általános Szerződési Feltételek hatálya, elfogadása, módosítása
+A jelen Általános Szerződési Feltételek (a továbbiakban: ÁSZF) az MBH BANK Nyrt. jogelődjének minősülő Takarékbank Zártkörűen Működő Részvénytársaság (rövidített név: Takarékbank Zrt., 1117 Budapest, Magyar tudósok körútja 9., Cg. 01-10-140275, adószám: 14479917-4-44, Statisztikai számjel: 14479917- 6419-114-01) által történő Minősített Fogyasztóbarát Személyi hitel nyújtásának részletes feltételeit szabályozza, azon lakossági személyi kölcsön ügyekre vonatkozóan, amelyet a jogelőd Takarékbank Zrt. 2023. április 28. napjáig elbírált és ugyanezen időpontig Ügyféllel személyi kölcsön szerződést kötött. A Takarékbank Zrt. által jelen ÁSZF alapján létesített valamennyi jogviszony vonatkozásában a jogutód MBH Bank Nyrt.-t megilletik mindazon jogok és terhelik mindazon kötelezettségek, amelyek a jogelőd Takarékbank Zrt.-t megillették, illetve terhelték.
+A Hitelintézet a Magyar Nemzeti Bank (MNB) által 2020.07.31. napjától kiírt Pályázaton történt sikeres részvétele alapján megfelel az MNB által meghatározott feltételeknek, így jogosult használni a „Minősített Fogyasztóbarát Személyi hitel” minősítést a vonatkozó, hatályos Minősített Fogyasztóbarát Személyi hitel Hirdetményben meghatározott fogyasztói kölcsönökre. A jelen ÁSZF-ben, valamint a Hitelintézet és az Ügyfél között létrejött egyes Szerződésekben nem szabályozott kérdésekben a Hitelintézet Minősített Fogyasztóbarát Hitelek Üzletszabályzata (a továbbiakban: Üzletszabályzat), a Hitelintézet Elektronikus Szolgáltatások Általános Szerződési Feltételei (a továbbiakban: Elektronikus ÁSZF), a Minősített Fogyasztóbarát Személyi Hitel Hirdetmény (a továbbiakban: Hirdetmény), valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.), a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (Fhtv.), illetve az egyéb irányadó hatályos jogszabályok rendelkezéseit – különös tekintettel a fogyasztóvédelmi szabályokra – kell alkalmazni.
+A Hitelintézet Ügyfele az ÁSZF-et a Hitelintézettel történő üzleti kapcsolatba lépésekor írásban, a Szerződés aláírásával fogadja el. Új Ügyfelek vonatkozásában jelen ÁSZF a Szerződés Hitelintézet és Ügyfél általi aláírásával lép hatályba. A Hitelintézet az Ügyfelei részére az ÁSZF-et a Hitelintézet ügyfélforgalom számára nyitva álló bankfiókjában és internetes honlapján is közzéteszi, azokat bárki megtekintheti és megismerheti.
+Az MBH Bank Nyrt. egyes bankfiókjaiban elérhető konkrét szolgáltatások részleteiről az mbhbank.hu honlapon	elérhető	Szolgáltatáskatalógusból	tájékozódhat (https://www.mbhbank.hu/lakossagi/szolgaltataskatalogus)
+
+              Az egyoldalú módosítás szabályai
+A Hitelintézet fenntartja magának a jogot, hogy az ÁSZF-et új szolgáltatás bevezetésekor egyoldalúan kiegészítse, valamint hogy a kamatok, költségek és díjak vonatkozásában azokat a 2.12. pontban felsorolt esetekben egyoldalúan módosítsa.
+A Hitelintézet az Ügyfeleit az ÁSZF kamatot érintő, Ügyfelek számára kedvezőtlen, egyoldalú a módosítás hatálybalépése előtt 90 nappal, díjat vagy költséget érintő Ügyfelek számára kedvezőtlen, egyoldalú módosításáról a módosítás hatálybalépése előtt 30 nappal, az erről szóló Hirdetmény fiókokban történő kifüggesztésével, és a Hitelintézet internetes honlapján (mbhbank.hu) – továbbiakban: honlap - történő megjelenítésével értesíti. Az ilyen tartalmú módosításról valamint a törlesztő részlet ebből adódó esetleges változásáról a Hitelintézet az Ügyfeleit legkésőbb a módosítás hatályba lépését 90/30 nappal megelőzően postai úton vagy más, a szerződésben meghatározott közvetlen úton is értesíti. Az Ügyfelek számára kedvezőtlen változást nem jelentő kamat, díj vagy költségmódosításokról a Hitelintézet az Ügyfeleit legkésőbb a hatálybalépés napját megelőző banki munkanapon, a módosítást tartalmazó Hirdetmény fiókokban történő kifüggesztése útján, valamint a Hitelintézet honlapján történő megjelenítésével értesíti.
+ 
+
+A nem kamatot, díjat, vagy költséget érintő, a Hitelintézet által történő egyoldalú kedvezőtlen ÁSZF módosítás kizárólag, a módosítás hatályba lépését követően megkötött szerződésekre kiterjedően lép hatályba.
+Amennyiben jelen ÁSZF valamely rendelkezése ellentétes az Ügyfél és a Hitelintézet között létrejött Szerződéssel, akkor a Szerződés az irányadó.
+
+
+                 Fogalom meghatározások
+A jelen ÁSZF-ben az alábbi kifejezések a következő jelentéssel bírnak:
+Adós/Adóstárs: az a természetes személy Ügyfél, akivel a Hitelintézet Hitelszerződést vagy Kölcsönszerződést köt, mely Szerződés alapján, a Hitelintézet a Szerződésben meghatározott pénzösszeget a rendelkezésére bocsátja, és aki ezen Kölcsön összegét és annak járulékait a Szerződés szerint visszafizetni köteles. Jelen ÁSZF Adós szóhasználata jelenti az Adóstársat is.
+ÁKK: az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság (székhely: 1027 Budapest, Csalogány u. 9-11.; cégjegyzékszám: 01-10-044549).
+ÁKKH: az ÁKK által havi rendszerességgel közzétett, a közzétételt megelőző három naptári hónapban tartott 5 éves névleges futamidejű államkötvény aukcióin kialakult átlaghozamok adott aukciókon elfogadott mennyiségekkel súlyozott számtani átlaga.
+Aláírás: Papír alapú dokumentum kézzel történő aláírása. Online folyamat esetén aláírásnak minősül az elektronikus okiraton az aláíró legalább minősített tanúsítványos alapuló fokozott biztonságú elektronikus aláírását helyezte el, vagy az elektronikus okiratot az aláíró, a Magyar Kormány rendeletében meghatározott azonosításra visszavezetett dokumentumhitelesítés szolgáltatással (AVDH) hitelesítette. Az ilyen módon aláírt dokumentum – továbbá az elektronikus okirat, amelyen legalább fokozott biztonságú elektronikus aláírást helyeztek el - megfelel a Hpt. és Ptk. írásbeliségre előírt követelményének. Ahol az ÁSZF írásbeliséget említ, „írásban” vagy „aláírás” kifejezést használ, az itt írtaknak megfelelő dokumentum írásbelinek minősül.
+ÁSZF (Általános Szerződési Feltételek): A Minősített Fogyasztóbarát lakossági személyi hitelre vonatkozó általános szabályokat tartalmazó rendelkezések összessége.
+
+Bankfiókban történő hitelfelvételnek minősül: ha a kölcsönigénylés ügyfél általi vagy közvetítőn keresztül történő benyújtása Bankfiókban történik, abban az esetben is, ha Bankfiókban történt igénylést követően a hiánypótlás Elektronikus úton történik.
+Bankszámla/ Fizetési számla: az Ügyfélnek a Hitelintézetnél forintban vagy devizában vezetett, a pénzforgalmi jogszabályok szerinti Fizetési Számlája, (jelen ÁSZF tekintetében kizárólag a lakossági Fizetési számlák).
+Bankszámla-szerződés/Fizetési számla Szerződés: amelyet a Felek Bankszámla/Fizetési számlajogviszony létesítése céljából kötnek, s mely alapján a Hitelintézet a Bankszámla/ Fizetési számla javára/terhére érkező fizetési megbízásokat –a vonatkozó jogszabály rendelkezései és az Ügyfél jóváhagyása szerint –teljesíti.
+Befogadás: A kölcsönkérelem akkor minősül befogadottnak, ha az Ügyfél a kölcsönkérelmi nyomtatványt megfelelően és teljes körűen kitöltve, aláírva, a kérelemhez szükséges alaki/formai és tartalmi feltételeknek megfelelő összes dokumentummal együtt benyújtotta, és a befogadás tényét a Hitelintézet írásban visszaigazolta.
+Biztosíték: olyan dolog vagy jog, amely szerződés vagy jogszabályi rendelkezés alapján az Adósnak a Hitelintézet felé fennálló kötelezettsége teljesítését biztosítja.
+Díj: a Hitelhez kapcsolódó Ügyleti kamaton kívüli minden egyéb ellenszolgáltatás –ideértve bármely díjat, jutalékot,–de ide nem értve a Költséget. A díj megfizetése - a Hirdetmény ellenkező rendelkezése hiányában
+- felmerülése napján esedékes.
+ 
+
+Elektronikus út: elektronikus adatfeldolgozást, -tárolást, illetőleg -továbbítást végző vezetékes, rádiótechnikai, optikai vagy más elektromágneses eszközök alkalmazása - ideértve az Igénylés és a kapcsolódó dokumentumok benyújtásának módját, a Hitelintézet általi tájékoztatók rendelkezésre bocsátását és a szerződéskötést is
+Előtörlesztés: a Szerződés alapján fennálló tartozás futamidő lejárata előtt történő teljes vagy részleges kiegyenlítése.
+Esedékességi/Törlesztési nap: az a Szerződésben meghatározott nap, amikor az Adósnak a Szerződésből fennálló fizetési kötelezettségének eleget kell tenni. Az Esedékességi nap a hónap 1-28. napja közé kell, hogy essen azzal, hogy amennyiben ez munkaszüneti napra/ Bankszünnapra esik, a teljesítés az azt követő első munkanapon esedékes.
+Első esedékesség: a Kezdőnapot követő első esedékességi nap.
+Értesítés: jelenti a küldemények papír alapú küldeményként – postai úton - történő megküldését és jelenti a küldemények Elektronikus úton – adatátvitellel – történő megküldését is. Értesítésnek minősül továbbá a küldemény hozzáférhetőségének biztosítása a Hitelintézet által működtetett – jelszóval vagy más biztonsági elemekkel védett felületre történő, belépést igénylő – elektronikus ügyfél postafiókba (az úgynevezett Tárhelyre) történő küldéssel (elhelyezéssel).
+Értesítő levél/ Folyósítási értesítő: amennyiben a Kölcsön folyósításának Hitelintézet által előírt feltétele van, a folyósítási feltétel teljesítése, és a teljesítés Hitelintézet részére történő igazolása esetén, a Hitelintézet a folyósítás megtörténtéről, időpontjáról, és a Folyósítás időpontjára tekintettel a Szerződésben/Visszaigazoló levélben közölt kondíciók esetleges megváltozásáról küldött, cégszerűen aláírt tájékoztatója, mely a Felek közötti Szerződés részét képezi.
+(Adós által) Fizetendő teljes összeg: a Hitel teljes összege, és a Hitel teljes díjának összege, amely utóbbi a teljes hiteldíj mutató (THM) számítására vonatkozó mindenkor hatályos jogszabály rendelkezési figyelembe vételével kerül kiszámításra.
+Fogyasztó: az önálló foglalkozása és gazdasági tevékenysége körén kívül eljáró természetes személy.
+Folyósítás napja: az a nap, amikor a Kölcsön (rész)összegét a Hitelintézet az Adós rendelkezésére bocsátja, az Ügyfél és a Hitelintézet között létrejött Szerződés rendelkezéseinek megfelelően.
+Futamidő: a Kölcsön futamideje –eltérő megállapodás hiányában –a Szerződésben meghatározott naptól (Kezdőnaptól), a Szerződés szerinti végső lejárat napjáig tartó időtartam, amely alatt az Adós az igénybe vett kölcsönt és járulékait a Szerződésben meghatározott törlesztő részletekben és meghatározott rendszerességgel a Hitelintézetnek visszafizeti.
+Hirdetmény: a Hitelintézet által az ügyfélforgalom számára nyitva álló helyiségeiben kifüggesztett/honlapján közzétett és az Adós kérésére, részére egyéb módon is hozzáférhetővé tett olyan tájékoztatás, amelyben a Hitelintézet az általa nyújtott szolgáltatások kamat-, költség-, díj és egyéb aktuális feltételeiről, valamint e feltételek módosításáról ad tájékoztatást.
+Hitelintézet: a MBH Bank Nyilvánosan Működő Részvénytársaság (rövidített név: MBH Bank Nyrt., székhely: 1056 Budapest, Váci utca 38. cégjegyzékszám: 01-10-040952, bejegyző cégbíróság: Fővárosi Törvényszék Cégbírósága, adószám: 10011922-4-44, statisztikai számjel: 10011922-6419-114-01), továbbá a Szerződésben foglalt bármely kötelezettség vállalására általa jogszerűen felhatalmazott harmadik személy.
+Hitel teljes díja: a Hitelintézet által ismert minden olyan – a teljes hiteldíj mutató számításánál a külön jogszabály szerint figyelembe veendő – ellenszolgáltatás, amelyet a Fogyasztó a hitelszerződés kapcsán megfizet.
+Hitel teljes összege: a Hitelnek a hitelszerződésben meghatározott teljes összege vagy felső összeghatára.
+Hitelkamat: a Fogyasztó által igénybe vett hitelösszeg rögzített vagy változó százalékában, éves szinten meghatározott pénzösszeg.
+ 
+
+Hitel-nyilvántartási szám(la): A Szerződésből eredő fizetési kötelezettség teljesítési helyéül szolgáló díj-, költség- és egyéb fizetési kötelezettségtől mentes technikai (számla)szám.
+Igénylőlap és Szerződés: az Ügyfél és a Hitelintézet általi aláírásával, vagy annak a Hitelintézet általi, akár külön okiratban történő visszaigazolásával (Visszaigazoló levél), Szerződés jön létre. Az Igénylőlap és Szerződés a Hitelintézet általi aláírásig/ visszaigazolásáig Igénylésnek minősül.
+Kezdőnap: A Kölcsön – több részletben történő folyósítása esetén a Kölcsön első részletének – Folyósítását követő első Esedékességi nap. Ettől a naptól, mint induló naptól kezdődik a Kölcsön törlesztő részleteinek, törlesztési ütemezésének, és Futamidejének meghatározása. E nap egyben az első kamatperiódus (amennyiben van), és az első ügyleti év kezdőnapja is. A Kezdőnapon az Adóst fizetési kötelezettség nem terheli. Ha a Folyósítás esedékességi napon történik, akkor a Kezdőnap megegyezik a Folyósítás napjával.
+Késedelmi kamat: az esedékességkor vissza nem fizetett kölcsön és járulékai után az Adós által a kikötött kamat és azon felül az esedékességtől fizetendő további, jogszabályban illetve a Hitelintézet Hirdetményében meghatározott kamat.
+Költség: a Hitelintézet által az Adós terhére a Díjakon és Ügyleti kamaton kívül a Hirdetményben tételesen meghatározott költség, amely a szerződéses jogviszony alatt/ arra tekintettel harmadik személy szolgáltatásával összefüggésben az Adósra áthárítható módon merül fel.
+Kölcsön/Hitel: a Hitelintézet által Szerződés alapján az Adós részére kamat, és egyéb járulékok ellenében rendelkezésére bocsátott pénzösszeg, amelyet az Adós a Hitelintézet által meghatározott időpont(ok)ban köteles visszafizetni. Jelen ÁSZF szempontjából a Minősített Fogyasztóbarát Személyi hitel.
+Minősített Fogyasztóbarát Személyi hitel: Mindazon fogyasztói kölcsön, amelyre nézve a Hitelintézet jogosult használni a Magyar Nemzeti Bank által 2020.07.31. napjától kiírt Pályázat alapján elnyert „Minősített Fogyasztóbarát Személyi hitel” minősítést. Jelen ÁSZF-ben továbbiakban: Kölcsön/Hitel.
+Online hitelfelvétel: Elektronikus úton kezdeményezett hitelfelvételi folyamat, függetlenül annak eredményétől, de pozitív hitelbírálat esetén ideértve a szerződés megkötését is.
+Online nyitvatartási idő: A Hitelintézet által az aznapi Online hitelfelvétel ügyintézésre elektronikus felületen biztosított, a Hirdetményben közzétett nyitvatartási idő, figyelembe véve a kapcsolódó elektronikus szolgáltatások üzemidejét.
+Pályázati kiírás: Az MNB által kiírt „Minősített Fogyasztóbarát Személyi Hitel” pályázat célja, hogy az ügyfelek széles köre számára elérhető, könnyen érthető, áttekinthető feltételrendszerű, egyszerű és gyors ügyintézés mellett felvehető szabad felhasználású és/vagy hitelkiváltási célú személyi hitel kerüljön forgalomba. A
+„Minősített Fogyasztóbarát Személyi Hitel” termék biztosítja a törlesztőrészletek kiszámíthatóságát, a
+„Minősített Fogyasztóbarát Személyi Hitel” termékekre vonatkozó ajánlatok egyszerű összehasonlíthatóságát, a pénzügyi tudatosság növelését és a piaci verseny élénkítését. E Pályázati kiírás képezi az alapját jelen ÁSZF-nek.
+Szerződés: a Hitelintézet és Ügyfelei között létrejött, Felek szándékának megfelelő azon jogviszonyt megtestesítő dokumentum, amelynek elválaszthatatlan részét képezi a jelen ÁSZF, a Minősített Fogyasztóbarát Hitelek Üzletszabályzata és a Minősített Fogyasztóbarát Személyi hitel Hirdetmény. Amennyiben a jelen ÁSZF "Szerződés"-t említ, ott az adott, Felek között létrejött szerződést kell érteni. Szerződésnek minősül az Igénylő/Adós által aláírt Igénylőlap és Szerződés valamint a Hitelintézet által aláírt Visszaigazoló levél együttese.
+Tartós adathordozó: olyan eszköz, amely lehetővé teszi az Ügyfél számára, a személyesen neki címzett/ Őt illető adatoknak a jövőben is hozzáférhető módon és az adat céljának megfelelő ideig történő tárolását, valamint a tárolt adatok változatlan formában történő megjelenítését. Tartós adathordozón való tájékoztatásnak minősül az Ügyfélnek küldött levél, a NetBankon keresztül részére küldött üzenet, a TeleBankon keresztül, a felhatalmazása alapján rögzített hangfelvétel, CD, illetve minden egyéb, amiről a Felek ekként állapodnak meg (pl. e-mail, SMS, stb.)
+ 
+
+Tárhely: a Hitelintézet által, az Ügyfelek részére ingyenesen biztosított, az elektronikus kapcsolattartáshoz tartozó, a dokumentumok, Értesítések, tájékoztatók stb. kézbesítésére és azok tárolására szolgáló, – jelszóval vagy más biztonsági elemekkel védett felületre történő, belépést igénylő – elektronikus felület. Az Elektronikus úton kötött Szerződéshez - és annak mellékleteihez, valamint a Teljeskörű online hitelfelvétel során készült dokumentumokhoz - való hozzáférést a Hitelintézet utóbb az Ügyfél részére a Tárhelyen is biztosítja, feltéve, hogy azok eredetileg is a Tárhelyen kerültek elhelyezésre.
+Teljes hiteldíj mutató (THM): az a belső megtérülési ráta, amely mellett a fogyasztó által teljesítendő kötelezettségek jelenértéke (törlesztés és díjak) éves százalékban kifejezve megegyezik a hitelező által folyósított hitelösszeggel.
+Teljeskörű online hitelfelvétel: bankfióki közreműködést nem igénylő hitelfelvételi folyamat, amelynek során a hitelfelvételi folyamat a Hitelintézet által biztosított elektronikus felületen keresztül valósul meg. A Teljeskörű online hitelfelvétel során az elektronikus úton megkötött Szerződés írásba foglalt szerződésnek minősül.
+Ügyfél: a Hitelintézet pénzügyi szolgáltatásait igénybe vevő természetes személy, aki a Hitelintézet pénzügyi szolgáltatásait igénybe veszi vagy annak igénybevétele érdekében kérelemmel fordul a Hitelintézethez.
+Ügyleti év: a Szerződésben rögzítettektől függően vagy naptári év, vagy a kölcsönszerződésben rögzített futamidő első napjától – illetve további ügyleti év esetén a fordulónappal megegyező naptári naptól – számított egész év, ahol az egész év 365 nap, szökőév esetén 366 nap.
+Ügyleti kamat: a ténylegesen igénybe vett és még vissza nem fizetett kölcsönösszeg után, a Folyósítás napjától az Adós által a pénzhasználat díjaként fizetendő összeg.
+Üzletszabályzat: azon dokumentum, amely meghatározza a Hitelintézet és az Ügyfelek közötti Minősített Fogyasztóbarát Hitel jogviszonyok alapvető szabályait, és amelynek rendelkezéseit alkalmazni kell a Hitelintézet és valamennyi Adós, illetve egyéb Ügyfele közötti minden olyan jogviszonyban, melynek során a Hitelintézet Minősített Fogyasztóbarát Személyi hitel szolgáltatást nyújt az Ügyfelek részére. Jelen ÁSZF szempontjából a Minősített Fogyasztóbarát Hitelek Üzletszabályzata.
+Videobank: az Ügyfél elektronikus csatornán történő azonosítását és a személyazonosság ellenőrzését, az általa tett jognyilatkozatok biztonságos tárolását, a tárolt adatok visszakeresését és ellenőrzését szolgáló valós idejű zártláncú kép- és hangátviteli rendszer, amely lehetővé teszi a Hitelintézet meghatározott termékeinek és szolgáltatásainak igénybevételét, az ahhoz kapcsolódó jognyilatkozatok megtételét, Bankfiók felkeresése nélkül. A Hitelintézet a Videobank felületén biztosítja az Ügyfél részére, hogy a Teljeskörű online hitelfelvétel, azon belül különösen az adatok rögzítése során felmerült hibákat, elírásokat kijavíthassa. A Hitelintézet Videobank igénybevételét a Hirdetményben meghatározott Online nyitvatartási időben biztosítja.
+Visszaigazoló levél: A Hitelintézet által cégszerűen aláírt, a Szerződés létrejöttét bizonyító okirat, amely a Visszaigazoló levél aláírása napján, vagy az abban meghatározott időpontban lép hatályba, és tartalmazza Minősített Fogyasztóbarát Személy Hitel Szerződés kondícióit, a vonatkozó jogszabály által elvárt egyéb feltételeket és – amennyiben előírásra kerül - a Folyósítás feltételeit.
+2.	Általános rendelkezések
+
+
+                 Általános szabályok
+A termék megnevezése: Minősített Fogyasztóbarát Személyi hitel
+A termék az MNB Pályázati kiírásában meghatározott feltételeknek megfelelő „Minősített Fogyasztóbarát Személyi hitel”.
+A Kölcsön célja lehet Bankfiókban történő hitelfelvétel esetén: szabadfelhasználás; hitelkiváltás; vagy hitelkiváltás és szabadfelhasználás.
+ 
+
+A Kölcsön célja lehet Teljeskörű online hitelfelvétel esetén: szabadfelhasználás.
+A hitelkiváltás célt szolgáló hitelösszeg felett az Adós közvetlenül nem rendelkezhet, azt más célra nem fordíthatja. Amennyiben a Kölcsön összege a hitelkiváltáshoz szükséges összeget meghaladja, a hitelkiváltáshoz szükséges összeg feletti rész, csak a kiváltandó hitel megszűnése Adós általi igazolását követően bocsátható az Adós rendelkezésére.
+Az aktuálisan igényelhető hitelcélok körét az aktuális Minősített Fogyasztóbarát személyi hitel Hirdetmény tartalmazza.
+ A Kölcsön összege:
+Az igényelhető Kölcsön összege a Hirdetményben kerül meghatározásra.
+A Kölcsön futamideje:
+A Kölcsön futamideje maximum 7 év lehet. azzal, hogy az itt írt maximális futamidő meghosszabbítására a futamidő alatt, kizárólag az Adós fizetési nehézsége, az Adós védelmének biztosítása érdekében van lehetőség.
+A Kölcsönszerződés megkötésére akkor kerülhet sor, ha a Hitelintézet az Ügyfél hitelképességét, (meghatározott esetekben fizetőképességét) illetve hitelezhetőségét megfelelőnek ítéli figyelemmel a 2.2.
+„A szerződéskötésre vonatkozó ajánlat” pontban leírtakra.
+
+
+                 Kölcsönkérelem benyújtása
+A kölcsönkérelem benyújtása a Hitelintézetnél Bankfiókban, vagy Elektronikus úton, vagy a Hitelintézettel a kölcsönkérelmek átvételére szerződött közvetítőn keresztül lehetséges. A benyújtás, az erre a célra rendszeresített dokumentum (Igénylőlap és Szerződés) kitöltésével, valamint a hitelbírálathoz szükséges, előírt dokumentumok, iratok benyújtásával történik, a benyújtás módjától függő alakiságok betartása mellett.
+
+
+Teljeskörű online igénylésre igénylésére és szerződés megkötésére a 2021. július 01. napjáig kizárólag azon ügyfelek jogosultak, akik a Hitelintézettel már (bármely jogviszony keretében) szerződéses kapcsolatban állnak, további potenciális adósok részére legkésőbb 2021. július 1-jétől biztosítja a Hitelintézet a Kölcsön teljes hitelfelvételi folyamatának online felületen történő lefolytathatóságát.
+
+
+A Kölcsön igénylésének általános feltételei
+	A Hitelintézet Minősített Fogyasztóbarát Személyi hitelt (továbbiakban: Kölcsön) cselekvőképes, legalább
+18. életévét betöltött, és a Hitelintézet által meghatározott egyéb feltételeknek is megfelelő természetes személy(ek) részére, a hatályos jogszabályok keretei között, a jelen ÁSZF-ben, és a vonatkozó Hirdetményben, valamint az egyedi ügyletre vonatkozó Szerződésben foglaltak szerint, az ügylet sajátosságaira tekintettel meghatározott előfeltételek maradéktalan fennállása esetén nyújt.
+Amennyiben a kölcsönigénylés benyújtásakor az Ügyfél nem töltötte be a 21. életévét, szükség van egy olyan Adóstárs bevonására, aki a 21. életévét betöltötte. Teljeskörű online hitelfelvétel esetében Adóstárs bevonása nem lehetséges.
+	Teljeskörű online hitelfelvételre csak a 21. életévét betöltött, cselekvőképes, fogyasztónak minősülő természetes személy jogosult.
+	Amennyiben a kért kölcsön futamideje alatt az Adós betölti a 70. életévét, szükség van egy olyan Adóstárs bevonására, aki a futamidő végéig a 70. életévét nem tölti be.
+ 
+
+	Ha az Igénylő életkora a hitel lejártának hónapjában meghaladná a 70. életévet, abban az esetben az igénylő Teljeskörű online hitelfelvételre nem jogosult.
+	A kölcsönügyletben az Adósok (Adós-Adóstárs) egyetemleges kötelezettségekkel, illetve jogosultsággal bírnak.
+	A Hitelintézet jelen ÁSZF hatálya alá tartozó Kölcsönök igénylési/igénybevételi feltételeként további feltételeket állapíthat meg, melyeket Ügyfél-tájékoztatóban/Hirdetményben teszi közzé.
+	Hitelkiváltásra irányuló kérelem esetén a kiváltandó kölcsön/ hitel összegét igazolni szükséges.
+A hiteligényléssel kapcsolatos teendők
+	A Hitelintézet az Ügyfél által kért formában – papír alapon, vagy elektronikus formában – az MNB által előírt tartalommal a Kölcsön részletes feltételeit tartalmazó termékismertetőt, valamint a hiteligényléshez szükséges dokumentumokról egy olyan ellenőrző listát ad át / tesz hozzáférhetővé az Ügyfél Tárhelyén, az Ügyfélnek a hiteligénylést megelőző tájékoztatáskor, amely az Ügyfél által igényelt Kölcsönhöz kapcsolódóan a folyósításig terjedő időszakban benyújtandó és bemutatandó dokumentumok és igazolások felsorolását tartalmazza. A Hitelező a termékismertetőt a honlapján is közzéteszi. A Hitelintézet a befogadáskor előre nem látható körülmények felmerülése esetén az ellenőrző listában megjelölteken kívül további dokumentumokat is bekérhet a szerződéskötésig. Papír alapon történő átadás esetén az Ügyfél aláírásával igazolja, az ellenőrző lista átvételét, elektronikus csatorna igénybevétele esetén az átvétel az üzenet igazolható elküldésének / Tárhelyen történt elhelyezés időpontjában megvalósul.
+	A Hitelintézet a potenciális adós által kért formában – papír alapon vagy a potenciális adós aláírt nyilatkozatában meghatározott elektronikus kézbesítési címre /Tárhelyre eljuttatva igazolható módon, elektronikus úton –, az MNB által előírt tartalommal a Kölcsön főbb tulajdonságait összefoglaló (és az Ügyfél figyelmét a 2021. január 25. napjától az MNB Összehasonlító oldal elérhetőségére, az Összehasonlító oldalon való online hitel-feltételek lekérdezhetőségére is felhívó) ajánlatot ad át /tesz hozzáférhetővé az Ügyfél részére befogadáskor. Az elektronikus kézbesítésre vonatkozó nyilatkozatot, valamint a papír alapon átadott ajánlat potenciális adós által aláírt egy példányát a Hitelező – amennyiben jogszabály eltérően nem rendelkezik – köteles megőrizni, a befogadástól, közvetítő eljárása esetén a közvetítőtől való átvételtől számított 5 évig, elektronikus kézbesítés esetén pedig 5 évig kell tudnia igazolni Hitelezőnek a kézbesítés tényét és a kézbesített ajánlat tartalmát.
+További tájékoztatás
+	2021. január 25. napjától az MNB Összehasonlító oldalán az Ügyfél minden minősített fogyasztóbarát személyi hitelt nyújtó intézmény vonatkozásában megtekintheti az igénybe venni kívánt hitelösszegre vonatkozó érvényes főbb hitelfeltételeket, beleértve a kamatokat, díjakat, költségeket.
+	Az Ügyfél a Minősített Fogyasztóbarát Személyi hitelre vonatkozó további információkat megtalálhatja a Hitelintézet ügyfélforgalom számára nyitva álló bankfiókjain és a szolgáltatásait közvetítő közvetítőn kívül a a Hitelintézet honlapján közzétett a Minősített Fogyasztóbarát Hitelek Üzletszabályzatban, a Minősített Fogyasztóbarát Személyi hitel ÁSZF-ben és a Minősített Fogyasztóbarát Személyi hitel Hirdetményben is.
+A szerződéskötésre vonatkozó ajánlat
+	Az Ügyfél a Hitelintézet ügyfélforgalom számára nyitva álló Bankfiókjában, a Hitelintézet termékeit közvetítő közvetítőnél és Videobankon keresztül is ajánlatot kérhet Kölcsön nyújtására. Közvetítő eljárása esetén a befogadásra legkésőbb a hiteligényléshez szükséges ellenőrző listában a Hitelező által megjelölt összes dokumentum a közvetítő által a Hitelező részére történő hiánytalan benyújtását követő munkanapon kerül sor. A potenciális adós aláírásával igazolja e dokumentumok közvetítő számára való átadásának napját. A közvetítő köteles a potenciális adóst előzetesen tájékoztatni a dokumentumok Hitelező részére történő átadásának napjáról, mely legkésőbb a dokumentumok átvételétől számított 4. munkanapra eshet. A közvetítő köteles a potenciális adóst előzetesen tájékoztatni arról, hogy a
+ 
+
+dokumentumok Hitelező részére történő átadásának napja, vagy az azt követő munkanap a befogadás napja. A potenciális adós választásától függően vagy a közvetítő juttatja el az ajánlatot annak kiállításától számított 5 munkanapon belül a potenciális adós részére, aki az átvétel tényét aláírásával igazolja, vagy a Hitelező juttatja el az ajánlatot közvetlenül a potenciális adós részére az ajánlat kiállítása napján, igazolható módon, Elektronikus úton.
+	A Hitelintézet az Ügyfél részére, az Ügyfél által megadott adatai alapján a befogadáskor visszavonhatatlan ajánlatot – továbbiakban: ajánlat - ad arra, hogy –a befogadáskor érvényes hitelfeltételekkel egyezően vagy a THM szempontjából az Ügyfélre nézve annál kedvezőbb feltételekkel (a továbbiakban: befogadáskori hitelfeltételek), az elállás jogának kikötése nélkül, az MNB által meghatározott, a Minősített Fogyasztóbarát Személyi hitel iránti minősítési feltételekben (a továbbiakban: Feltételek), valamint a Fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. számú törvényben (a továbbiakban: Fhtv.) meghatározott határidőt figyelembe véve megköti a Kölcsönre vonatkozó szerződést az Adóssal, amennyiben
+o	nem áll fenn- a Hitelintézet befogadáskor hatályban lévő, a személyi kölcsön hitelezésre vagy kockázatkezelésre vonatkozó belső szabályzatában lefektetett, a kölcsönre vonatkozó - szerződés megkötését kizáró körülmény, ide nem értve azon körülményeket, amelyekre vonatkozóan az Ügyfél befogadáskori hitelfeltételek meghatározásához adatokat adott,
+o	az Ügyfél a kölcsönre vonatkozó szerződés megkötéséhez szükséges, a Hitelintézet által meghatározott további dokumentumokat is benyújtotta, valamint
+o	az adott kölcsönre meghatározott kamatváltoztatási mutató alapjául szolgáló referenciakamat a Hitelintézet befogadáskori ajánlata nyújtásának napján érvényes ajánlat megtétele napján érvényes értéke közötti különbség a 75 bázispontot (0,75 százalékpontot) nem haladja meg.
+A Hitelintézet a befogadáshoz az Ügyfélnek átadott, a hiteligényléshez szükséges ellenőrző listában megjelölteken kívül további feltételeket nem határozhat meg.
+Az ajánlati kötöttség időtartama az ajánlat kiállítását követő 30 nap,
+Amennyiben a Hitelező a Kölcsönt a befogadáskori hitelfeltételektől eltérő feltételekkel tudja nyújtani a potenciális adós számára, vagy a potenciális adós kéri a befogadáskori hitelfeltételek módosítását, és az eltérő feltételek alapján számított THM értéke kedvezőtlenebb a befogadáskori ajánlatban rögzítetthez képest, akkor haladéktalanul, a Pályázati kiírás 2. számú melléklete szerinti tartalommal, akár a befogadáskor, akár az új ajánlat kiadásakor érvényes hitelfeltételek szerint új ajánlatot ad a potenciális adós részére.
+Amennyiben a Hitelező a Kölcsönt a befogadáskori hitelfeltételektől eltérő feltételekkel tudja nyújtani a potenciális adós számára, és az eltérő feltételek alapján számított THM értéke nem kedvezőtlenebb a befogadáskori ajánlatban rögzítetthez képest, akkor új ajánlat kiadása nem szükséges.
+
+
+                 A kölcsönkérelem elbírálása
+A Hitelintézet a benyújtott hitelkérelmi dokumentáció alapján hitelbírálatot végez.
+A Hitelintézet az Adós hitelképességére vonatkozó vizsgálat szempontjait a prudens hitelintézeti működésnek megfelelően maga határozza meg és azokat időről időre módosíthatja, ha megítélése szerint a módosítás ésszerű és szükséges.
+A hitelképesség megítéléséhez a Hitelintézet elsősorban az Adós által szolgáltatott adatokat, információkat használja fel, de a Hitelintézet jogosult bármely egyéb, az elbíráláshoz általa szükségesnek tartott adatot, információt, okiratot kérni az Adóstól.
+A hitelkérelem érdemi elbírálásának az a feltétele, hogy az Adós a Hitelintézet által kért szükséges információkat, adatokat és okiratokat időben, pontosan, a valóságnak megfelelően, a Hitelintézet által igényelt formában megadja.
+ 
+
+A hitelbírálati határidőt a Hitelintézet akként határozza meg, hogy pozitív hitelbírálat esetén Bankfiókban történő hitelfelvétel esetén a befogadástól számított 3 munkanapon belül, Teljeskörű online hitelfelvétel esetén a Befogadástól számított 2 munkanapon belül eleget tudjon tenni a Pályázati kiírásban meghatározott folyósítási kötelezettségének. Amennyiben a Befogadáshoz képest új körülmény merült fel, a Hitelintézet jogosult az Adóstól az ellenőrzési listában megjelölteken túl további dokumentumokat bekérni, ebben az esetben – pozitív hitelbírálat esetén, attól függően, hogy az eljárás Bankfiókban történő, vagy Teljeskörű online hitelfelvételnek minősül,– a(z első rész)folyósítás a)z utolsó) hiánypótlás beérkezésétől számított 3, illetve 2 munkanapon belül történik.
+A bírálat eredményéről az Adóst a Hitelintézet értesíti. A hitelkérelem jóváhagyása esetén a szerződést létrehozó Visszaigazoló levelet küld / az Ügyfél Tárhelyén a Visszaigazoló levelet elhelyezi. A hitelkérelem elutasítása esetén a Hitelintézet nem köteles az elutasítási indok közlésére.
+Amennyiben nem kerül sor szerződéskötésre és az Ügyfél a bankfiókban írásban, vagy postai úton kéri az általa benyújtott adatokat tartalmazó dokumentumok eredeti példányait, akkor a Hitelintézet azokat, a nyilatkozat beérkezésétől számított 7 munkanapon belül személyes eljárás esetén térítésmentesen, postai úton való megküldés esetén a postaköltség felszámításával bocsátja az Ügyfél rendelkezésére.
+A személyes adatokat tartalmazó dokumentumokat a személyes adatok alanyának vagy az erre teljes bizonyító erejű magánokiratban foglalt meghatalmazással rendelkező meghatalmazottnak kell visszaadni. A Hitelező – honlapján is közzétett – formanyomtatványt biztosít, amely a hiteligénylési nyomtatvány részét képezheti, és amelyen az Ügyfél kérését benyújthatja. Az erre vonatkozó rendelkezését az Ügyfél később szabadon módosíthatja.
+
+
+                 A kölcsön biztosítékai
+Az üzleti kapcsolat fennállása alatt a Hitelintézet külön kikötött biztosítékot nem kér, megilleti azonban az Adós nála vezetett bármely bankszámlája tekintetében a Ptk. szerinti beszámítási jog mindazon esetben, amikor Adós törlesztési, vagy bármely fizetési kötelezettségének nem, vagy nem teljes összegben tesz eleget.
+
+
+                 Kapcsolódó szolgáltatások
+
+              Kapcsolódó szolgáltatások, amelyeket az Adósnak igénybe kell vennie a hitelfelvételhez
+	Adós által nyitott, a Hitelintézet által az Adós nevén vezetett lakossági Bankszámla (külön szerződéses jogviszony alapján) abban az esetben, ha a Hitelintézet kamatkedvezmény/ kedvezményes konstrukció biztosítása fejében ezt elvárja, és az Adós igénybe kívánja venni. A kamat- és egyéb kedvezményekre vonatkozó feltételeket és részletes szabályokat az Adóssal megkötött kölcsönszerződés és a Minősített Fogyasztóbarát Személyi hitel Hirdetmény tartalmazza.
+	A Hitelintézet biztosítja az Adós számára, hogy a Kölcsön törlesztését ingyenes technikai törlesztő számlára teljesítse.
+	A fentieken kívül egyéb termék vagy szolgáltatás igénybevételére a Hitelező az Adóst nem kötelezi, illetve ezek igénybevételéhez kötött, nem a Futamidő egészére érvényes kedvezményt sem nyújt.
+
+              Kapcsolódó szolgáltatások, amelyeket Adós igénybe vehet a hitelfelvételhez
+	A Hitelintézetnek a hitel nyújtásakor törlesztési biztosítást ajánlhat az Adósnak, azonban ennek elfogadására az Adós nem köteles. A Hitelintézetnél igénybe vehető biztosítás fajtáit és díját a vonatkozó Hirdetmény tartalmazza.
+ 
+
+                 A szerződéskötés és szerződésmódosítás általános szabályai
+A szerződéskötés írásban történik, az Igénylőlap és Szerződés Ügyfél általi, a Visszaigazoló levél Hitelintézet általi aláírásával. A Szerződés a Visszaigazoló levél Hitelintézet általi aláírása napján minősül megkötöttnek.
+A megkötött szerződés érvényesen csak írásban, a Hitelintézet és az Adós közös megegyezésével módosítható, ide nem értve a Hitelintézetet az ÁSZF 2.12. pontja szerint megillető egyoldalú módosítási jog gyakorlásával eszközölt módosítást.
+A Hitelintézet a Kölcsönszerződés aláírása után az Adós kérelmére végrehajtott minden módosítás esetén jogosult szerződésmódosítási díjat felszámolni (ide nem értve az előtörlesztés okán kezdeményezett szerződésmódosítást). A szerződésmódosítási díj mértéke és esedékessége a Hitelintézet mindenkori hatályos Hirdetménye szerint kerül megállapításra.
+Szerződésmódosításnak számít minden olyan, a kölcsönszerződést érintő változás, amely a jogviszony tartalmát érinti. Ebbe a körbe tartozik különösen az Adós személyében történő változás átvezetése, a futamidő módosítása.
+A Hitelintézet és az Adós által kölcsönösen elfogadott szerződésmódosítás költségét az Adós viseli.
+
+
+                 A Kölcsön folyósításának általános feltételei
+A Hitelintézet a Kölcsönt az alábbi általános feltételek teljesítése esetén folyósítja: a Szerződés Felek általi aláírása
+
+
+A Hitelintézet a szabad felhasználású kölcsön folyósítására további feltételt nem ír elő.
+Amennyiben a Kölcsön hitelkiváltás célú, és ha mellette van szabad felhasználású rész is, a Hitelintézet a Kölcsön szabad felhasználású részét kizárólag akkor folyósítja, ha Adós a kiváltandó kölcsön(ök) / hitel(ek) megszűnését a kiváltandó tartozást nyilvántartó hitelintézet / pénzintézet által kiállított igazolás benyújtásával igazolja.
+
+
+                 A Kölcsön folyósításának időpontja
+A Hitelintézet a Kölcsönt forintban nyújtja egyösszegben, vagy ha a Kölcsön célja hitelkiváltás és szabadfelhasználás, akkor részletekben, akként, hogy a szabadfelhasználású rész kizárólag a kiváltandó kölcsön(ök)/ hitel(ek) megszűnésének Hitelintézet részére történő igazolását követően történik. Hitelkiváltás estén a Kölcsön rendelkezésre tartásának ideje legfeljebb 90 nap.
+A Kölcsön folyósításának módja: Amennyiben a Kölcsön kizárólag szabad felhasználású, a Hitelintézet a Kölcsönt az Adós által megjelölt bankszámlára átutalással folyósítja. Ha a Kölcsön célja (részben)hitelkiváltás, az arra a célra szolgáló összeget a kiváltandó hitelt nyújtó pénzügyi intézmény részére, az általa megadott bankszámlára /technikai számlára átutalással, a maradék, szabad felhasználású részt ( ha van), a fenti módon folyósítja.
+A Hitelintézet a csak szabadfelhasználású vagy csak hitelkiváltási célú Kölcsönt – pozitív hitelbírálat esetén – Bankfiókban történő hitelfelvétel esetén a kérelem Befogadását követő legkésőbb 3., Teljeskörű online hitelfelvétel esetén a Befogadást követő legkésőbb 2. munkanapon folyósítja. Amennyiben a Kölcsön hitelkiváltás célú, és tartalmaz szabadfelhasználású részt is, a szabadfelhasználású kölcsönösszeget a kiváltandó kölcsön/ hitel (több kiváltandó kölcsön/ hitel esetén az utolsó) megszűnéséről szóló igazolás benyújtását követő naptól számított legfeljebb 1 munkanapon belül folyósítja.
+ 
+
+Amennyiben a Hitelintézet nem a fenti határidőben teljesíti folyósítási kötelezettségeit, a Hitelintézet 1 munkanapot nem meghaladó késedelem esetén a késedelemmel érintett, folyósított összeg 0,25%-át, ennél hosszabb késedelem esetén pedig a késedelemmel érintett folyósított összeg 0,75%-át megfizeti Adós részére, melyre legkésőbb a folyósítást követő 5 munkanapon belül sor kerül (a szabadfelhasználású rész folyósítására megjelölt bankszámlára). Nem terheli a Hitelintézetet az itt írt fizetési kötelezettség, ha a határidő-mulasztás önhibáján kívül következett be, és annak elhárítása érdekében minden tőle telhetőt megtett.
+Nem esik a Hitelintézet terhére a késedelmes folyósítás, ha a Teljeskörű online hitelfelvétel esetén az Ügyfél az esetleges hiánypótlást Bankfiókba benyújtva teljesíti, és a (folyósítási) késedelem időtartama nem több, mint a hiánypótlásra felhívástól annak Ügyfél általi teljesítéséig eltelt idő.
+Hitelintézet tájékoztatja Adóst, hogy a jelen ÁSZF hatálya alatt felvett személyi kölcsönre vonatkozó szerződés megkötését követően felveendő lakáscélú hitel esetén, az ott szükséges önerő tekintetében (a vonatkozó jogszabály illetve hatályos MNB előírás szerint) a személyi kölcsön összege figyelembe vételre kerül.
+
+
+                 A Hitelintézet elállási joga a kölcsön folyósítása előtt
+Ha az Adós, vagy a Hitelintézet körülményeiben olyan lényeges változás áll be, amely miatt a megkötött kölcsönszerződés teljesítése a Hitelintézet részéről nem várható el, vagy ha a szerződés megkötése után olyan körülmények következnek be, amelyek miatt a jelen ÁSZF értelmében azonnali hatályú felmondásnak lenne helye, úgy a kölcsönszerződéstől a Hitelintézet még a folyósítás előtt egyoldalú nyilatkozattal, indokolás és mindenfajta kártérítési kötelezettség nélkül elállhat.
+Az elállás jelen ÁSZF-ben nem szabályozott eseteiben a Ptk. vonatkozó rendelkezései az irányadóak.
+
+
+               A kölcsön kamatperiódusa, ügyleti kamata, és teljes hiteldíj mutatója
+
+             A kölcsön kamata
+A Hitelintézet Hirdetményében határozza meg és teszi közzé a Kölcsönre vonatkozó mindenkor aktuális kamatmértéket.
+A Hitelintézet a kamatmérték meghatározásakor betartja a Pályázati kiírásban foglalt MNB elvárást.
+
+
+
+            A kölcsön ügyleti kamatának meghatározása és számítási módja
+A Kölcsön ügyleti kamatának éves, százalékban kifejezett mértékét szerződéskötéskor az Igénylőlap hitelintézeti befogadásának időpontjában hatályos vonatkozó Hirdetmény szerint – érvényben lévő kondíciók alapján kell meghatározni.
+Az esedékes ügyleti kamat összegét a Hitelintézet a fennálló tőketartozás és a 365 (366) – tényleges napok száma / 360 napos kamatszámításos módszer figyelembevételével határozza meg.
+Az ügyleti kamat számítása napi kamatszámítással történik és a Folyósítás napjával kezdődik. A kölcsön folyósításának napja kamatozik, a kölcsön törlesztésének napja nem.
+A kamatszámítás képlete:
+Napok                                                                                        Ügyleti Kamat = Tőke * Ügyleti Kamatláb százalékban * ----------
+36000
+ 
+
+	A kamat mértékét a Hitelintézet Minősített Fogyasztóbarát Személyi hitel Hirdetmény című mindenkor hatályos hirdetményében (a továbbiakban: Hirdetmény) teszi közzé. Az ügyleti kamat a hitel teljes futamidejére rögzített (fix). ide nem értve az esetlegesen, feltétel kikötésével biztosított kamatkedvezmény – feltétel nem teljesítése miatti – elvesztése, illetve – a feltétel ismételt teljesítése esetén a - feléledés esetét.
+
+            A teljes hiteldíj mutató (THM)
+A teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló 83/2010. (III.25.) Kormányrendelet szerint meghatározott THM-re vonatkozó rendelkezéseket – figyelemmel a Hpt. vonatkozó rendelkezéseire is – az Üzletszabályzat, a megkötendő kölcsönszerződések, valamint a vonatkozó Hirdetmény tartalmazzák.
+
+
+                Alkalmazott egyéb díjtételek, jutalékok és költségek
+A Hitelintézet által nyújtott személyi hitelhez – a kölcsön ügyleti kamatán kívül– további díjak, költségek kapcsolódhatnak, melyek fajtáit, esedékességüket, mértéküket és felszámításuk körét a Hirdetmény tartalmazza azzal, hogy a kölcsönszerződés ezen díjaktól, jutalékoktól és költségektől eltérő díjakat, jutalékokat és költségeket is meghatározhat az alábbi korlátozásokkal:.
+A Hitelintézet egyoldalúan nem jogosult a megkötött szerződések vonatkozásában új díj-, jutalék- és költségtípust bevezetni. A Hitelintézet jogosult az Ügyfél részére teljesített szolgáltatásoknak a költségeit – különösen az esetleges hatósági eljárás költségeit, a közreműködő igénybevételének költségeit, a jogi és egyéb szakértői költségeket, a postaköltségeket, az illetékeket – az Ügyfélre terhelni.
+
+            A kölcsön folyósításáig, valamint a futamidő során felmerülő díjak/költségek
+Folyósítási díj: Adós a Kölcsön folyósításakor/részfolyósításakor Folyósítási jutalékot köteles fizetni. A Folyósítási díj mindenkori százalékos mértéke a Hirdetményben kerül meghatározásra a hatályos jogszabályok és a Pályázati kiírás figyelembevételével, számításának alapja a folyósított Kölcsön összege. A Folyósítási díj összege a Szerződésben/ Visszaigazoló levélben rögzítésre kerül és azt a Hitelintézet –az Adós ilyen irányú rendelkezése esetén –a folyósított Kölcsön összege terhére számolja el.
+A fentieken túl a Hitelintézet a folyósításig nem számít fel egyéb díjat vagy költséget.
+-	A hitelfelvételhez kapcsolódóan (kötelezően/ opcionálisan ) igénybe veendő szolgáltatások és díjai
+	Fizetési számla havi díja: kamatkedvezmény igénybevételéhez vállalt jóváírás teljesítéséhez szükséges, a Hitelintézetnél vezetett Fizetési számla fenntartása a teljes futamidő alatt. A számlavezetés díját a Hitelintézet számlavezetéshez kapcsolódó Hirdetménye tartalmazza.
+-	Opcionálisan felmerülő egyéb díjak
+	Postázási költség: Amennyiben Ügyfél elutasítás esetén az általa benyújtott dokumentumokat postai úton kéri vissza.
+A felszámítható díjak részleteivel kapcsolatban (fajtái, összege, esedékessége, megfizetés módja ) az ÁSZF-en túl a Hirdetmény ad tájékoztatást.
+
+            Lejárat előtti visszafizetéshez (előtörlesztéshez) kapcsolódó díj
+Az Ügyfél minden esetben élhet a hitel részleges vagy teljes előtörlesztésével. Előtörlesztés esetén a Hitelintézet csökkenti a hitel teljes díját az előtörlesztett részlet vonatkozásában a hitelszerződés eredeti lejárata szerint fennmaradó időtartamára vonatkozó hitelkamattal és a hitelkamaton kívüli minden egyéb ellenszolgáltatással.
+ 
+
+	Az Adósnak teljes vagy részleges előtörlesztési szándékát a Hitelintézet felé írásban kell jeleznie.
+A Hitelintézet legalább a kölcsönhöz kapcsolódó éves egyenlegközlés során értesíti az Adóst arról, hogy lehetősége van részlegesen vagy teljesen előtörleszteni, vagy teljes előtörlesztés útján kiváltani hitelét
+
+             Szerződésmódosítási díj
+A Szerződésben foglalt feltételek – különös tekintettel pl. adóstárs kiengedés, a hitel futamidejének módosítása, illetve minden egyéb, az Adós részéről kezdeményezett szerződésmódosítás (ide nem értve, ha a Szerződés módosítására az előtörlesztéssel összefüggésben kerül sor) – bármelyikének Adós által kezdeményezett megváltoztatása esetén a Hitelintézet szerződésmódosítási díjat jogosult felszámítani.
+
+            Ügyintézési díj
+Amennyiben az Adós kérésére a Hitelintézet a kölcsönszerződésben vállaltakon túlmenő szolgáltatásokat (igazolások, másolatok készítése, szerződésmódosítást nem igénylő kérelmek feldolgozása stb.) teljesít.
+
+            Monitoring díj
+Az Adós nem szerződésszerű pénzügyi és nem pénzügyi teljesítésével kapcsolatban, illetve az Adós szerződésszerű teljesítésének helyreállítása érdekében ügyintézést végez, úgy a szolgáltatás jellegétől függően, a monitoring tevékenység díja felszámításra kerül.
+
+            Egyéb díjak:
+Az ÁSZF-ben nem nevesített, esetlegesen felmerülő további díjakat, mértéküket és esedékességüket a Hirdetmény tartalmazza.
+
+
+               Az ügyleti kamat, illetve díjak módosítása
+A kölcsön ügyleti kamatlába a futamidő alatt fix. Az ügyleti kamat a futamidő alatt egyoldalúan nem változtatható. Nem minősül egyoldalú kamatmódosításnak, ha a Kölcsön azért kerül átárazásra, mert az Adós a kamatkedvezmény/kedvezményes konstrukció általa vállalt feltétele(i)t nem teljesítette. Ugyancsak nem minősül egyoldalú kamatmódosításnak, ha arra azért kerül sor, mert az Adós kamatkedvezmény feltétele(i)t ismételten teljesíti.
+A díjak, a költségek és a jutalékok, továbbá a kamatok tekintetében a 2.12.1. pontban meghatározott feltételek és körülmények változása esetén élhet a Hitelintézet az Ügyfél számára kedvezőtlen, egyoldalú szerződés módosítási jogával.
+
+            Egyoldalú módosításra okot adó feltételek és körülmények
+A Hitelintézet a már megkötött szerződéseket a Hitelfelvevő számára hátrányosan a hitelszerződésben megállapított költség és díj tekintetében módosíthatja egyoldalúan. E jogosultság gyakorlásának feltételei – a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (Fhtv.) rendelkezéseivel összhangban – a következők.
+A Hitelintézet valamennyi, általa megkötött, és az ÁSZF hatálya alá tartozó Kölcsönszerződés vonatkozásában, függetlenül a szerződéskötés időpontjától a szerződés alapján felszámított díjat – ide nem értve a Kölcsön folyósításához, valamint az előtörlesztéshez közvetlenül kapcsolódó díjakat/jutalékokat, de beleértve a százalékos mértékben meghatározott díjak minimum és maximum értékét is – jogosult minden évben, évente egy alkalommal, április hó 1. napjával legfeljebb a KSH által közzétett előző éves fogyasztói árindex mértékével módosítani.
+ 
+
+A Hitelintézet valamennyi, általa megkötött és az ÁSZF hatálya alá tartozó Kölcsönszerződés vonatkozásában, függetlenül a szerződéskötés időpontjától a szerződés alapján felszámított, harmadik személy szolgáltatásával összefüggésben a szerződés megkötése, módosítása és a kapcsolattartás során az Adós érdekében felmerülő, áthárítható költséget – beleértve a százalékos mértékben meghatározott költségek minimum és maximum értékét is – költségmódosulás felmerülésekor, azok változásával arányosan jogosult módosítani.
+Amennyiben a Hitelintézet a kamatok, továbbá az egyes díjak számítási módját, avagy az általa alkalmazott kamatváltoztatási-mutatót módosítja, az csak a módosítást követően kötött szerződések tekintetében hatályos.
+
+            Az egyoldalú módosítás egyéb szabályai
+A Hitelintézet egyoldalú szerződésmódosítási jogát megalapozó, fent felsorolt feltételt vagy körülményt érintő változás bekövetkezése önmagában nem jelenti azt, hogy a Hitelintézet ténylegesen gyakorolni is fogja egyoldalú szerződésmódosítási jogosultságát. A Hitelintézet fenntartja magának a jogot, hogy a bekövetkezett kedvezőtlen változások mértékénél ügyfelek számára kedvezőbb mértékben illetőleg a változások bekövetkezésének időpontjától ügyfél számára kedvezőbb időpontban, továbbá az egyes ügyfélkörre vagy termékköre eltérő mértékben érvényesítse a változások hatásait.
+Amennyiben a Hitelintézet él az egyoldalú, a Hitelfelvevő számára kedvezőtlen kamat, díj vagy költség módosítás jogával, úgy azt díj vagy költség módosítása esetén a módosítás hatálybalépését megelőzően 30 (Harminc) nappal Hirdetményben közzéteszi, valamint arról az ügyfelet postai úton, vagy más a szerződésben meghatározott tartós adathordozón is értesíti.
+Ha a szerződés egyoldalú módosításának alapjául szolgáló feltételek a költség vagy díj csökkentését teszik lehetővé, a Hitelintézet e csökkentést is köteles érvényesíteni.
+A hitelszerződésben megállapított ügyleti kamaton, költségen és díjon kívül egyéb feltételt, ideértve az egyoldalú módosításra vonatkozó kikötést is, egyoldalúan, az Adós számára hátrányosan a Hitelintézet nem jogosult módosítani.
+A Hitelintézet az Adós számára nem kedvezőtlenül egyoldalúan módosíthatja az Adóssal kötött szerződés feltételeit.
+Nem minősül egyoldalú szerződésmódosításnak, ha a Hitelintézet új szolgáltatásokat, pénzügyi eszközöket, ügyleteket vezet be, melyeket az Ügyfél számára elérhetővé tesz, és amelyeket az Ügyfél kifejezetten elfogad, igénybe vesz, illetve arra szerződést köt.
+
+
+               A kölcsön törlesztése
+A kölcsön törlesztése havonta, annuitásos törlesztési mód alkalmazásával történik.
+Az Annuitásos törlesztési mód azt jelenti, hogy az Adós(ok) által fizetendő havi törlesztő részlet megegyezik a napi kamatszámítás alapján annuitásos módszerrel számított tőke és kamat havi részletének összegével.
+A havi törlesztő részlet – kivéve az első és utolsó törlesztő részletét –a kölcsön devizanemében állandó. A törlesztő részletben a tőke és a kamat aránya változó. A havonta fizetendő törlesztő összegből az ügyleti kamat mindig megegyezik a napi kamatszámítás módszerével számolt, tárgyhóban az esedékesség napjáig felhalmozott kamatok összegével. A törlesztő részletekben szereplő tőke összegek összesítése megegyezik az ütemezett (fennálló, nem esedékes) tőketartozás összegével.
+A Folyósítás napjától függően a Kölcsön első és utolsó törlesztő részletének összege eltérhet.
+Amennyiben a napi kamatszámítással kiszámított kamat összege magasabb, mint a kikalkulált annuitásos törlesztő részlet összege, akkor a teljes kamatösszeg kerül beszedésre. Ilyen esetben tőketörlesztés nem történik.
+ 
+
+               A kölcsön törlesztő részlete
+A havonta esedékes kölcsöntőke, valamint az ügyleti kamat havonta esedékessé váló része együttesen képezi a havi törlesztő részletet.
+A havi törlesztő részlet meghatározása a tőke és az ügyleti kamat tekintetében annuitásos módszerrel történik.
+A havi törlesztő részlet – kivéve esetlegesen az első és utolsó törlesztő részletét – Futamidő alatt állandó, a törlesztő részletben a tőke és az ügyleti kamat aránya változó.
+
+
+               A törlesztő részlet esedékessége
+A Kölcsön törlesztő részletének esedékessége a kölcsönszerződésben kerül meghatározásra. Az első törlesztő részlet a kölcsönszerződésben meghatározott napon, amennyiben ilyen nap a következő hónapban nincs, úgy az a következő munkanapon esedékes. Minden további törlesztő részlet havonta, minden hónapnak az első törlesztő részlet esedékességi napjával megegyező napján, illetve a kölcsön végső lejárataként meghatározott naptári napon esedékes. Ha az esedékesség napja munkaszüneti napra, vagy bankszünnapra esik a teljesítés a következő munkanapon esedékes. Amennyiben a törlesztő részlet esedékességi napjával megegyező számú naptári nap az adott hónapban nincs, a törlesztő részlet az adott hónap utolsó napján esedékes.
+
+
+               A kölcsön előtörlesztése
+Adós jogosult a Futamidő alatt a kölcsönszerződésben rögzített lejárati idő előtt tartozását részben vagy egészben visszafizetni. Az előtörlesztett összeg a Szerződés keretében ismételten, kölcsönként nem vehető igénybe.
+Az Adós, amennyiben élni kíván előtörlesztési szándékával, azt írásban a Hitelintézet felé be kell jelentenie, úgy hogy a bejelentés legkésőbb az előtörlesztés értéknapját megelőző 5 munkanappal korábban a Hitelintézet részére kézbesítésre kerüljön. A bejelentésben az előtörlesztés összegét meg kell meghatározni.
+A bejelentésben Adós az előtörlesztésre értéknapot határozhat meg. Ennek hiányában a Hitelintézet az előtörlesztést az összeg beérkezését követő 2 munkanapon belül végrehajtja.
+Ha az Adós jelzi előtörlesztési szándékát a Hitelintézetnek, a Hitelintézet papíron vagy más tartós adathordozón az Adós rendelkezésére bocsátja az Előtörlesztésre vonatkozó információkat, annak következményeinek számszerűsítését és a következmények megállapításánál alkalmazott ésszerű és indokolható feltételezéseket, ideértve a vonatkozó hatályos Hirdetményben az Fhtv. rendelkezéseinek megfelelően meghatározott, érvényesíthető költségeket és azok megállapításának módját is.
+Amennyiben a Hitelintézet által ténylegesen jóváírt előtörlesztés összege az Adós teljes tartozásának megszűnését eredményezni, úgy a Felek erre vonatkozó külön írásbeli megállapodása vagy egyéb jogcselekménye nélkül az előtörlesztéssel érintett kölcsönszerződés megszűnik.
+Az előtörlesztés tervezett (érték)napjáig esedékes törlesztő-részleteket Adós köteles megfizetni, és amennyiben a Kölcsönnel kapcsolatban az előtörlesztés értéknapján késedelme áll fenn, a Hitelintézet jogosult az előtörlesztésre szánt összegből a késedelem rendezésére. Az előtörlesztés során az elszámolás a Ptk. szerinti beszedési sorrendnek megfelelően történik.
+Adós köteles az előtörleszteni kívánt összeget az előtörlesztés értéknapján legkésőbb 23:59 óráig, a Hitelintézet által meghatározott (bank)számlán rendelkezésre tartani. A (bank)számlán elhelyezett, az előzetes írásos bejelentésben megjelölt összeg erejéig előtörleszteni kívánt összeget a Hitelintézet az előtörlesztés értéknapján, illetőleg amennyiben ez az értéknap munkaszüneti napra, vagy bankszünnapra esik akkor az ezt követő munkanapon a fentiekben megjelölt (bank/fizetési) számlán végrehajtja, vagy Adós az előtörleszteni kívánt összeget a Hitel-nyilvántartási szám(lá)ra az előtörlesztés értéknapján legkésőbb
+ 
+
+23:59 óráig közvetlenül megfizeti. A Hitelintézet az Előtörlesztéshez közvetlenül kapcsolódó, esetlegesen felmerült méltányos költségeinek megtérítésére jogosult. Az érvényesített költségek összege nem haladhatja meg a Pályázati kiírásban meghatározott mértéket, melyet a Hitelintézet Hirdetményében teszi közzé.
+
+
+Az Adós az alábbi előtörlesztési típusok közül választhat.
+•	Részelőtörlesztés futamidő módosítás nélkül: az Adós által előtörlesztett összegre tekintettel csökkennek a kölcsöntartozás további havi törlesztő részletei, a kölcsönszerződésben meghatározott lejárat napjáig.
+•	Részelőtörlesztés futamidő csökkentéssel: az előtörlesztéshez futamidő csökkentés is kapcsolódik. A lejárati nap meghatározásakor figyelembe kell venni, hogy a futamidő csökkentése után tervezett törlesztő részlet nem haladhatja meg az előtörlesztés értéknapját megelőzően Hitelintézet által meghatározott és Adós által fizetendő törlesztő részletet.
+•	Teljes előtörlesztés: amennyiben a Hitelintézet által ténylegesen jóváírt előtörlesztés összege az Adós teljes tartozásának megszűnését eredményezi, úgy a Felek erre vonatkozó külön írásbeli megállapodása vagy jogcselekménye nélkül az előtörlesztéssel érintett kölcsönszerződés megszűnik.
+Az előtörlesztés – a Futamidő módosítással járó előtörlesztés kivételével – kölcsönszerződés-módosítást nem igényel, de a Hitelintézet ettől indokolt esetben eltérhet. A Futamidőt a Felek érvényesen csak írásban, szerződésmódosítás keretében változtathatják meg. Felek szerződés módosításnak fogadják el, ha a Hitelintézet a módosult feltételekről (futamidő hossza, megváltozott törlesztő részlet) írásbeli visszaigazolást küld Adós részére.
+A Hitelintézet – amennyiben az előtörlesztés más hitelintézettől/ pénzintézettől felveendő kölcsön/hitel felvételével valósul meg, a Kölcsön előtörlesztésére szánt hitelintézeti kölcsön/hitel fogadására olyan technikai számlát jelöl, amelyhez az Adósnak hozzáférése nincs, és az érkezett összeget a Kölcsönre, annak érkezését követően haladéktalanul elszámolja.
+
+
+               A pénzügyi teljesítés módja és határideje
+A Kölcsönszerződésből eredő összes fizetési kötelezettség teljesítési helyéül a Hitel-nyilvántartási szám(la) szolgál, amelyre a teljesítés történhet átutalással, pénztári befizetéssel, vagy az Adós Hitelintézetnél vezetett fizetési/bankszámlája – és esetlegesen a fizetési/bankszámlához kapcsolódó hitelkeret – terhére beszedéssel.
+Amennyiben az Adós fizetési kötelezettségeit a Hitelintézetnél nevére megnyitott lakossági fizetési/bankszámláról teljesíti a kamat-, és esetleges egyéb kedvezmények érdekében, úgy az Adós köteles az őt terhelő, esedékessé váló fizetési kötelezettség teljes összegének megfelelő fedezetet az esedékesség napján – amennyiben az esedékesség napja munkaszüneti nap vagy bankszünnap, akkor az esedékességet követő banki munkanapon – a Kölcsönszerződésben megjelölt, a Hitelintézetnél megnyitott fizetési/bankszámlán biztosítani.
+Ha ugyanaz a Fizetésszámla több, a Hitelintézet által nyújtott hitel/kölcsön – ideértve a Hitelintézet más ÁSZF- jének hatálya alá tartozó fogyasztói hitelt/kölcsönt is – törlesztő-számlájaként szolgál, úgy a Hitelintézet az egyes Kölcsönök törlesztésére adott beszedési megbízások alapján a beszedéseket az egyes esedékességek sorrendjében végzi. Ha bármely hónapban az Adós a Hitelintézet fent írt eljárásától eltérően kíván teljesíteni, úgy azt az adott hónapban az érintett Kölcsön esedékességének napját megelőző munkanapig közvetlenül az adott Kölcsönszerződéshez tartozó Hitel-nyilvántartási szám(lá)ra történő átutalással/pénztári befizetéssel teheti meg.
+Amennyiben az Adós nem rendelkezik Fizetési számlával a Hitelintézetnél, úgy lehetősége van a Kölcsönszerződésből eredően fennálló valamennyi fizetési kötelezettségét azok esedékességi időpontjára átutalással, vagy pénztári befizetéssel közvetlenül a Hitel-nyilvántartási szám(lá)ra teljesíteni.
+ 
+
+A Fizetési számla bármely okból történő megszűnése esetén Adós fizetési kötelezettségeit közvetlenül a Hitel-nyilvántartási szám(lá)ra, az általa választott módon (átutalás, pénztári befizetés bankfiókban) teljesítheti, azzal, hogyha a fizetési/bankszámla fenntartása, és egyéb a fizetési/bankszámlával összefüggő kötelezettség vállalás a Kölcsönhöz kapcsolódó kedvezmény alapjául szolgál, a fizetési/bankszámla megszűnése az adott Kölcsönszerződésben írt módon és időponttól a kedvezmény megszűnését is eredményezheti.
+Az Adós által a Hitelintézet javára teljesített bármely fizetés teljesítésének időpontja az a nap, melyen az összeg levonásra került a kölcsönszerződésben megjelölt bankszámlájáról, illetve hitel-nyilvántartási számláján jóváírásra kerül.
+Nem bankszámlán keresztül történő Teljes előtörlesztés esetén, amennyiben az Adós Hitelintézettel szemben fennálló valamennyi tartozása kiegyenlítésre került, és a kölcsön megszűnését követően esetlegesen fel nem használt összeg áll a Hitelintézet rendelkezésére:
+--- ezen összeget illetőleg annak a forint ellenértékét a Hitelintézet az Adós rendelkezése alapján a lakossági bankszámlák esetén alkalmazott kondíciókról, díjakról, jutalékokról és ezek teljesítési rendjéről szóló hirdetmény szerinti költségek felszámításával visszautalja az Adós által megjelölt bankszámla javára.
+--- ha a többletbefizetés összege nem haladja meg az 500,- forint minimum összeget, a Hitelintézet ezen túlfizetés összegét – az Adós rendelkezésétől függetlenül – csak az Adós Hitelintézetnél vezetett forint Fizetési számlájára utalja vissza.
+Amennyiben az Adós nem rendelkezik a Hitelintézetnél Fizetési számlával, az Adós a fenti minimum összeget meg nem haladó túlfizetés pénztári kifizetését jogosult kezdeményezni a Hitelintézet bármely az ügyfélforgalomra nyitva álló bankfiókja útján. A Hitelintézet a kifizetést a vonatkozó hatályos jogszabályok keretei között, a lakossági bankszámlák esetén alkalmazott kondíciókról, díjakról, jutalékokról és ezek teljesítési rendjéről szóló hirdetmény szerinti költségek felszámításával teljesíti.
+Amennyiben a Hitelfelvevő Hitelintézettel szemben adott kölcsönügyletből eredően fennálló valamennyi tartozása (más) hitelintézet által nyújtott hitelből került kiegyenlítésre, az (elő)törlesztésre esetlegesen fel nem használt összeget a Hitelintézet a hitelintézet részére utalja vissza, a körültekintő lakossági hitelezés feltételeiről és a hitelképesség vizsgálatáról szóló 361/2009. (XII.30.) Korm. rendeletben meghatározott feltételek fennállása esetén.
+
+
+               A szerződés megszűnése
+A Kölcsönszerződés megszűnik, ha:
+a)	Adós a Kölcsönszerződésből eredően a Hitelintézettel szemben fennálló valamennyi (tőke, kamat-, díj-, költség-, jutalék és egyéb járulék) fizetési kötelezettségének maradéktalanul eleget tett;
+b)	ha a Hitelintézet a Kölcsönszerződést írásban azonnali hatállyal felmondja,
+c)	az Adós halálával, azon időpontban, amikor e tényről a Hitelintézet hivatalos tudomást szerez, ha az ügyletben Adóstársak vannak, az egyik Adóstárs halála a Kölcsönszerződést nem szünteti meg, d) az Adós a Szerződés megkötésétől számított 14 (tizennégy) napon belül (közös) kérelemmel, írásban gyakorolja az őt a fogyasztónak nyújtott hitelről szóló jogszabály alapján megillető elállási, illetve amennyiben a Kölcsön ezen időtartam alatt már folyósításra került, a díjmentes felmondási jogát.
+Amennyiben az Adós a fogyasztónak nyújtott hitelről szóló jogszabály szerinti tájékoztatást a szerződéskötést követően kapja kézhez, az elállási (felmondási) jogát a d) pontban meghatározottaktól eltérően a hivatkozott jogszabályban meghatározott tájékoztatás kézhezvételétől számított 14 (Tizennégy) napig gyakorolhatja. Az elállási (felmondási) jogot határidőben érvényesítettnek kell tekinteni, ha az Adós az erre vonatkozó nyilatkozatát a jelen ÁSZF-ben meghatározott határidő lejártáig postára adja vagy egyéb igazolható módon azt a Hitelintézetnek elküldi.
+ 
+
+Az Adós d) pont szerinti elállásról (felmondásról) szóló nyilatkozatának elküldését követően haladéktalanul, de legkésőbb harminc napon belül köteles a felhasznált Kölcsönt és a Kölcsön lehívásának időpontjától a visszafizetés időpontjáig felszámítható, a szerződés szerint megállapított hitelkamatot visszafizetni.
+Erre irányuló igény esetén a személyes adatokat tartalmazó dokumentumokat a személyes adatok alanyának vagy az erre teljes bizonyító erejű magánokiratban foglalt meghatalmazással rendelkező meghatalmazottnak kell visszaadni.
+Jelen szabályok vonatkoznak arra az esetre is, amennyiben a kölcsönszerződés a Kölcsön összegének határidőben történő igénybevétele hiányában szűnik meg, továbbá a kölcsön összegének lejárat előtti teljes hitelösszeg előtörlesztése esetén is.
+
+
+               A szerződés felmondása
+Amennyiben az Adós, a Szerződés valamely rendelkezését – ideértve a jogszabály, jelen ÁSZF vagy a Hitelintézet Hirdetménye alapján fennálló kötelezettséget is –a Kölcsön fennállása alatt olyan módon sérti meg, amelyet a Hitelintézet az érintett féllel nem képes tárgyalások és egyezség útján rendezni és ez a Hitelintézet érdekeinek súlyos sérelmét jelenti, a Hitelintézet a megkötött kölcsönszerződést a jelen fejezetben foglalt feltételek szerint, egyoldalú nyilatkozatával felmondhatja és ezzel a jogviszonyt a jövőre nézve megszüntetheti.
+A Hitelintézet a Szerződés felmondását megelőzően az Adósnak, küldött írásbeli fizetési felszólításban felhívja a figyelmet a teljes fennálló és a lejárt tartozásösszegére, a fizetendő kamat és Késedelmi kamat mértékére, valamint a nem fizetés esetén növekvő kamatteherre és a tartozás rendezésének elmaradása esetén a várható jogkövetkezményekre. A fizetési felhívások a felügyeleti szerv ajánlásainak, a Hpt.-nek, és a kölcsönszerződés rendelkezéseinek megfelelő tartalommal kerülnek megküldésre.
+A Hitelintézet jogosult a kölcsönszerződést azonnali hatállyal felmondani különösen az alábbi – súlyos szerződésszegésnek minősülő – esetekben:
+•	ha az Adós a szerződésből eredő bármely fizetési kötelezettségét annak esedékességét követő 30 napon belül nem teljesíti;
+•	ha hitelkiváltási cél esetén az Adós a kölcsönt egészben vagy részben a céljától eltérően használja fel, A Hitelintézet azonnali hatállyal felmondhatja a kölcsönt, ha
+•	az Adós körülményeiben lényeges kedvezőtlen változás állt be, és az Adós felszólítás ellenére nem ad megfelelő biztosítékot;
+•	az Adós a Hitelintézetet megtévesztette, és ez a Szerződés megkötését vagy annak tartalmát befolyásolta;
+•	az Adós a fizetőképességére vonatkozó, valamint a Kölcsön céljának megvalósulásával kapcsolatos vizsgálatot akadályozza;
+•	az Adós fedezet elvonására irányuló magatartása veszélyezteti a Kölcsön visszafizetésének lehetőségét;
+•	az Adós a Szerződés alapján fennálló fizetési kötelezettsége teljesítésével késedelembe esik, és mulasztását felszólításra sem pótolja.
+A felmondás vagy az azonnali hatályú felmondás jelen ÁSZF-ben és/vagy a megkötött kölcsönszerződésekben nem szabályozott eseteiben a Ptk. vonatkozó rendelkezései az irányadóak az alábbiakban kifejtettek szerint.
+
+            A felmondás hatályba lépése
+Az azonnali hatályú felmondás jogi következményei – amennyiben a Hitelintézet felmondásában más időpontot nem határoz meg – személyes kézbesítés esetén az átvételt követő napon, postai kézbesítés esetén az Üzletszabályzat szerinti kézbesítési időpontot követő napon állnak be. Több Adós esetén a felmondás hatálya a felmondásnak bármelyik Adós részére történő kézbesítésével mindegyik Adóssal
+ 
+
+szemben beáll. A felmondást személyesen kell átadni, vagy tértivevényes levélben kell kézbesíteni. Személyes kézbesítés esetén a felmondást átvevő köteles az általa személyesen átvett felmondás egy példányát az átvétel igazolása végett aláírásával ellátni, és azt a felmondás átadójának visszaadni.
+A felmondás hatályát nem érintik a Hitelintézet által az Adósnak megküldött és az Adós fizetési hátralékát jelző kimutatások és – a felmondás kifejezett visszavonását meghaladóan tett – bármilyen egyéb nyilatkozatok.
+Amennyiben a Hitelintézet a felmondás jogával nem élt, vagy a felmondást visszavonja, az nem jelenti azt, hogy a Hitelintézet a felmondás jogáról lemondott volna.
+
+            A felmondás jogkövetkezményei
+A Szerződés felmondás útján történő megszűnése elsősorban az alábbi jogkövetkezményekkel jár:
+•	az Adós a szerződésből fakadó, a Hitelintézettel szemben fennálló teljes tartozása esedékessé és lejárttá válik, beállnak a késedelem jogkövetkezményei, az Adós ettől a naptól kezdődően köteles késedelmi kamatot fizetni, a Hitelintézet pedig követelheti a tartozás behajtásával kapcsolatos összes költségét.
+•	a Hitelintézet jogosulttá válik az Adós teljes vagyona terhére behajtani követelését. A Kölcsön biztosítékaival szembeni igényérvényesítés sorrendjét a Hitelintézet határozza meg.
+•	A Hitelintézet a felmondás dátumát követő 90. napot követően a felmondás napját megelőző napon érvényes ügyleti kamatot, költséget és díjat meghaladó mértékű késedelmi kamatot, költséget és díjat nem számít fel;
+
+
+               Ügyfelek egyéb jogai és kötelezettségei
+
+            Az Adós kötelezettségei
+Adós alapvető kötelezettsége a Kölcsön szerződésszerű felhasználása (amennyiben hitelcél megjelölésre került), és a Kölcsön szerződésszerű visszafizetése.
+Kötelezettsége továbbá:
+•	a kölcsönszerződésből eredő fizetési kötelezettség megszegése esetén a Hitelintézet felszólítására a jövedelmi és vagyoni helyzetével kapcsolatos, a Hitelintézet által kért dokumentumok, illetve nyilatkozatok egy eredeti példányát a felhívás közlésétől számított 15 munkanapon belül a Hitelintézet részére megküldeni;
+•	5 munkanapon belül tájékoztatni a Hitelintézetet, ha:
+	neve, lakcíme, telefonszáma vagy munkahelye megváltozik, illetve munkahelye megszűnik;
+	ha vagyonával szemben bárki végrehajtási eljárást kezdeményez, vagy ilyen eljárás kezdeményezését kilátásba helyezi;
+	a hitelcél megvalósulására (amennyiben meghatározásra kerül), vonatkozó hitelezői ellenőrzés során a Hitelintézettel együttműködni, a szükséges információkat, illetve iratokat rendelkezésére bocsátani.
+
+            A Hitelintézet jogai és kötelezettségei
+
+2.20.2.1.	A Hitelintézet ellenőrzési jogai
+Az Adós és a Hitelintézet abban állapodnak meg, hogy a Hitelintézet a téves jóváírást vagy terhelést az Adós rendelkezése nélkül is jogosult időkorlátozás nélkül helyesbíteni.
+ 
+
+Az esedékességi napot megelőzően a Hitelintézet jogosult telefonon vagy SMS-ben az Adós figyelmét felhívni az aktuális törlesztési kötelezettség teljesítésére. Folyamatos szerződésszerű teljesítési időszakára az Adós kérheti, hogy a Hitelintézet SMS illetve telefonos megkeresést ne eszközöljön.
+
+2.20.2.2.	A Hitelintézet tájékoztatási kötelezettsége
+Folyósítási értesítő
+A folyósítással egyidejűleg kinyomtatásra kerül a folyósítási értesítő, amely tartalmazza a folyósított összeget és devizanemét, valamint az Adós által fizetendő törlesztő részlet összegét, valamint mindazt az adatot – amely a kölcsönszerződésben csak tájékoztató jelleggel került meghatározásra – a Folyósítás időpontjában érvényes kondíciók alapján.
+Egyenlegértesítő
+Az ügyleti év, végét követő 15 munkanapon belül a fennálló tartozás aktuális összegéről, valamint az új ügyleti évre meghatározott törlesztő részletről és ügyleti kamat mértékéről, a Hitelintézet az Adóst írásban tájékoztatja. A Hitelintézet az Egyenlegértesítőn tájékoztatja továbbá az Adóst, hogy lehetősége van részleges, vagy teljes előtörlesztésre, vagy a teljes előtörlesztés hitelkiváltás útján történő megvalósítására.
+
+
+Forgalmi kivonat
+Az ügyleti év végét és a szerződés lejártát követő 30 napon belül a Hitelintézet forgalmi kivonatban tájékoztatja az Adóst – első alkalommal, illetve ezt követően az utolsó tájékoztatás óta eltelt időszak alatt –, az esedékessé vált fizetési kötelezettségekről valamint a teljesített befizetésekről jogcímenkénti megbontásban tőkére, ügyleti kamatra, egyéb jogcímekre, valamint az esetleges hátralékos tartozásra és a felszámított késedelmi kamatra vonatkozóan.
+Egyéb tájékoztatás
+Adós kérelmére – saját költségén – a kérést megelőző 5 évben végrehajtott egyedi ügyletekről a Hitelintézet legkésőbb 90 napon belül köteles írásbeli kimutatást küldeni Adós részére.
+Törlesztési táblázat
+A Hitelintézet az Adós kérelmére a kölcsönszerződés fennállása alatt bármikor az Adós részére, a fennálló tartozásról Törlesztési táblázatot küld díj-, költség- és egyéb fizetési kötelezettség-mentesen. A Törlesztési táblázat a törlesztő-részletek összegét, a törlesztés gyakoriságát és feltételeit, valamint az egyes törlesztések tőke-, hitelkamat és hitelkamaton kívüli minden egyéb ellenszolgáltatás elemét – ideértve díjat, jutalékot, költséget – elkülönítetten tartalmazza.
+Felmondást megelőző tájékoztatás
+A Hitelintézet a kölcsönszerződés felmondását megelőzően az Adósnak küldött írásbeli fizetési felszólításban felhívja a figyelmet a teljes fennálló és a lejárt tartozás összegére, a fizetendő kamat és késedelmi kamat mértékére, valamint a nem fizetés esetén növekvő kamatteherre és a tartozás rendezésének elmaradása esetén a várható jogkövetkezményekre.
+Ezen írásbeli felszólítással egyidejűleg az ebben foglalt tájékoztatás mellett a Hitelintézet bemutatja a szerződés megkötésétől kezdődően az egyes évekre összesítve – az adós külön kérése esetén havi bontásban – az Adós által teljesített törlesztő részletek, a visszafizetett tőkeösszeg, az elszámolt kamat, késedelmi kamat és egyéb költségek, továbbá a tőkésített kamat és a fennálló tartozás alakulását.
+Általános tájékoztatás a hitelszerződésben foglaltak be nem tartásának lehetséges következményeiről
+	A Hitelintézet vállalja, hogy a szerződéskötést megelőzően az Adós részére szóban és írásban is részletes és teljes körű tájékoztatást ad az esetleges törlesztési nehézségek esetén követett eljárásról: az Adóstól elvárt magatartásról, a Hitelintézet eljárásairól, az alkalmazott jogkövetkezményekről (például: késedelmi
+ 
+
+kamatok, eljárási díjak, áthárított költségek stb.), illetve a lehetséges fizetéskönnyítő, fizetőképesség helyreállítását célzó lépésekről.
+	A kölcsönszerződésben foglaltak be nem tartása az alábbi következményeket vonhatja maga után:
+	Fizetési késedelem esetén:
+–	A kiegyenlítés napjáig a hatályos Hirdetményben meghatározott mértékű késedelmi kamat, amely nem lehet több, mint az ügyleti kamat másfélszerese + 3 százalékpont, de maximum a mindenkori THM legfelső mértéke (az érintett naptári félévévet megelőző hónap első napján érvényes jegybanki alapkamat + 24 százalékpont.), illetve 90 napot meghaladó késedelem esetén a 90. napot követően az Fhtv.-ben meghatározott mérték,
+–	Az egyes hitelezői tevékenységért (pl. a felszólító levél költsége, monitoring tevékenység díja) díj kerül felszámításra.
+–	90 napot elérő, a legkisebb összegű (bruttó) minimálbért meghaladó folyamatos fizetési késedelem esetén a Hitelező – jogszabályi kötelezettsége szerint - megküldi a késedelemre vonatkozó adatokat a Központi Hitelinformációs Rendszerbe (KHR) részére.
+–	A kölcsönszerződés felmondásra kerülhet.
+	Az ÁSZF-ben rögzített felmondási okok bármelyikének beállta esetén a Hitelintézet jogosult a kölcsönszerződést azonnali hatállyal felmondani.
+	Felmondás esetén:
+–	Az Adós(ok) még fennálló teljes tartozása azonnali hatállyal és egy összegben esedékessé válik.
+–	A hátralékos tartozás behajtásával kapcsolatban illetve az eljárás során felmerült valamennyi költség az Adós(oka)t terheli.
+–	A Hitelintézet jogosult a követelését követeléskezelő részére értékesíteni.
+	Amennyiben a Hitelintézet az Adóstól begyűjtött információk alapján valószínűsíti, hogy fizetési nehézsége lesz, még a fizetési nehézség bekövetkezte előtt megelőző intézkedéseket ajánl (például: hitelbiztosítás lehívási lehetősége a feltételek fennállása esetén, átütemezés stb.).
+A felszámítható díjak részleteivel kapcsolatban a Hirdetmény ad tájékoztatást.
+
+
+3.	Záró rendelkezések
+
+
+Az Általános Szerződési Feltételek hatályba lépése
+Jelen módosításokkal egységes szerkezetbe foglalt ÁSZF 2023. május 1. napjától hatályos.
+Jelen ÁSZF rendelkezéseit – amennyiben a Felek ezt szerződésben kikötötték – a hatályba lépését követően keletkezett és az ÁSZF hatálya alá tartozó jogviszonyokra teljes körűen kell alkalmazni.
+Az ÁSZF hatályba lépését követő módosítása és kiegészítése annak hatálybalépése előtt megkötött szerződésekre vonatkozóan az érintett Ügyféllel szemben akkor válik hatályossá, ha annak tartalmát – a rá vonatkozó részében – kifejezetten, vagy ráutaló magatartással elfogadta:
+Ráutaló magatartással történő elfogadásnak tekintik a Felek, ha az Ügyfél a megváltozott Általános Szerződési Feltételekkel szemben, annak közlésétől számított 15 napon belül kifogást a Hitelintézet felé írásban nem tesz.
+ 
+
+ Az ÁSZF közlése
+A Hitelintézet az ÁSZF-et az Ügyfelei kérésére, részükre ingyenesen rendelkezésére bocsátja, valamint azt az ügyfélforgalom lebonyolítására szolgáló helyiségekben megtekintés céljából kifüggeszti, és a Hitelintézet internetes honlapján megjelenteti.
+Jelen ÁSZF-ben nem szabályozott kérdésekben az Üzletszabályzat, valamint az Ügyfelekkel kötött szerződések, a Ptk., a Hpt., továbbá a Hitelintézet és Ügyfelei jogviszonyát szabályozó más hatályos jogszabályok az irányadóak.
+
+
+Alkalmazási záradék
+Jelen ÁSZF a Takarékbank Zrt. által 2023 április 28-ig elbírált Minősített Fogyasztóbarát Személyi hitel- szerződések szerinti jogviszonyokra alkalmazandó.
+2023. május 1.
